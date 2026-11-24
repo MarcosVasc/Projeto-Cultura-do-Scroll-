@@ -1,0 +1,1961 @@
+﻿tabela,recorte_tipo,recorte,item,categoria,valor_pct,valor_publicado
+C7,TOTAL,TOTAL,Facebook,Várias vezes ao dia,10,10
+C7,TOTAL,TOTAL,Facebook,Todos os dias ou quase todos os dias,7,7
+C7,TOTAL,TOTAL,Facebook,Pelo menos uma vez por semana,8,8
+C7,TOTAL,TOTAL,Facebook,Pelo menos uma vez no mês,6,6
+C7,TOTAL,TOTAL,Facebook,Nunca ou quase nunca,68,68
+C7,TOTAL,TOTAL,Facebook,Não sabe,1,1
+C7,TOTAL,TOTAL,Facebook,Não respondeu,0,0
+C7,TOTAL,TOTAL,Facebook,Não se aplica,0,0
+C7,TOTAL,TOTAL,Instagram,Várias vezes ao dia,45,45
+C7,TOTAL,TOTAL,Instagram,Todos os dias ou quase todos os dias,15,15
+C7,TOTAL,TOTAL,Instagram,Pelo menos uma vez por semana,7,7
+C7,TOTAL,TOTAL,Instagram,Pelo menos uma vez no mês,2,2
+C7,TOTAL,TOTAL,Instagram,Nunca ou quase nunca,30,30
+C7,TOTAL,TOTAL,Instagram,Não sabe,1,1
+C7,TOTAL,TOTAL,Instagram,Não respondeu,0,0
+C7,TOTAL,TOTAL,Instagram,Não se aplica,0,0
+C7,TOTAL,TOTAL,"X, antigo Twitter",Várias vezes ao dia,3,3
+C7,TOTAL,TOTAL,"X, antigo Twitter",Todos os dias ou quase todos os dias,2,2
+C7,TOTAL,TOTAL,"X, antigo Twitter",Pelo menos uma vez por semana,6,6
+C7,TOTAL,TOTAL,"X, antigo Twitter",Pelo menos uma vez no mês,2,2
+C7,TOTAL,TOTAL,"X, antigo Twitter",Nunca ou quase nunca,84,84
+C7,TOTAL,TOTAL,"X, antigo Twitter",Não sabe,2,2
+C7,TOTAL,TOTAL,"X, antigo Twitter",Não respondeu,1,1
+C7,TOTAL,TOTAL,"X, antigo Twitter",Não se aplica,0,0
+C7,TOTAL,TOTAL,TikTok,Várias vezes ao dia,37,37
+C7,TOTAL,TOTAL,TikTok,Todos os dias ou quase todos os dias,13,13
+C7,TOTAL,TOTAL,TikTok,Pelo menos uma vez por semana,10,10
+C7,TOTAL,TOTAL,TikTok,Pelo menos uma vez no mês,4,4
+C7,TOTAL,TOTAL,TikTok,Nunca ou quase nunca,34,34
+C7,TOTAL,TOTAL,TikTok,Não sabe,1,1
+C7,TOTAL,TOTAL,TikTok,Não respondeu,0,0
+C7,TOTAL,TOTAL,TikTok,Não se aplica,0,0
+C7,TOTAL,TOTAL,WhatsApp,Várias vezes ao dia,53,53
+C7,TOTAL,TOTAL,WhatsApp,Todos os dias ou quase todos os dias,17,17
+C7,TOTAL,TOTAL,WhatsApp,Pelo menos uma vez por semana,6,6
+C7,TOTAL,TOTAL,WhatsApp,Pelo menos uma vez no mês,3,3
+C7,TOTAL,TOTAL,WhatsApp,Nunca ou quase nunca,20,20
+C7,TOTAL,TOTAL,WhatsApp,Não sabe,0,0
+C7,TOTAL,TOTAL,WhatsApp,Não respondeu,0,0
+C7,TOTAL,TOTAL,WhatsApp,Não se aplica,0,0
+C7,TOTAL,TOTAL,YouTube,Várias vezes ao dia,43,43
+C7,TOTAL,TOTAL,YouTube,Todos os dias ou quase todos os dias,23,23
+C7,TOTAL,TOTAL,YouTube,Pelo menos uma vez por semana,14,14
+C7,TOTAL,TOTAL,YouTube,Pelo menos uma vez no mês,4,4
+C7,TOTAL,TOTAL,YouTube,Nunca ou quase nunca,16,16
+C7,TOTAL,TOTAL,YouTube,Não sabe,0,0
+C7,TOTAL,TOTAL,YouTube,Não respondeu,0,0
+C7,TOTAL,TOTAL,YouTube,Não se aplica,0,0
+C7,TOTAL,TOTAL,Discord,Várias vezes ao dia,5,5
+C7,TOTAL,TOTAL,Discord,Todos os dias ou quase todos os dias,2,2
+C7,TOTAL,TOTAL,Discord,Pelo menos uma vez por semana,3,3
+C7,TOTAL,TOTAL,Discord,Pelo menos uma vez no mês,2,2
+C7,TOTAL,TOTAL,Discord,Nunca ou quase nunca,81,81
+C7,TOTAL,TOTAL,Discord,Não sabe,6,6
+C7,TOTAL,TOTAL,Discord,Não respondeu,2,2
+C7,TOTAL,TOTAL,Discord,Não se aplica,0,0
+C7,ÁREA,Urbana,Facebook,Várias vezes ao dia,10,10
+C7,ÁREA,Urbana,Facebook,Todos os dias ou quase todos os dias,7,7
+C7,ÁREA,Urbana,Facebook,Pelo menos uma vez por semana,8,8
+C7,ÁREA,Urbana,Facebook,Pelo menos uma vez no mês,6,6
+C7,ÁREA,Urbana,Facebook,Nunca ou quase nunca,68,68
+C7,ÁREA,Urbana,Facebook,Não sabe,1,1
+C7,ÁREA,Urbana,Facebook,Não respondeu,0,0
+C7,ÁREA,Urbana,Facebook,Não se aplica,0,0
+C7,ÁREA,Urbana,Instagram,Várias vezes ao dia,46,46
+C7,ÁREA,Urbana,Instagram,Todos os dias ou quase todos os dias,15,15
+C7,ÁREA,Urbana,Instagram,Pelo menos uma vez por semana,7,7
+C7,ÁREA,Urbana,Instagram,Pelo menos uma vez no mês,2,2
+C7,ÁREA,Urbana,Instagram,Nunca ou quase nunca,30,30
+C7,ÁREA,Urbana,Instagram,Não sabe,0,0
+C7,ÁREA,Urbana,Instagram,Não respondeu,0,0
+C7,ÁREA,Urbana,Instagram,Não se aplica,0,0
+C7,ÁREA,Urbana,"X, antigo Twitter",Várias vezes ao dia,3,3
+C7,ÁREA,Urbana,"X, antigo Twitter",Todos os dias ou quase todos os dias,2,2
+C7,ÁREA,Urbana,"X, antigo Twitter",Pelo menos uma vez por semana,6,6
+C7,ÁREA,Urbana,"X, antigo Twitter",Pelo menos uma vez no mês,2,2
+C7,ÁREA,Urbana,"X, antigo Twitter",Nunca ou quase nunca,84,84
+C7,ÁREA,Urbana,"X, antigo Twitter",Não sabe,2,2
+C7,ÁREA,Urbana,"X, antigo Twitter",Não respondeu,1,1
+C7,ÁREA,Urbana,"X, antigo Twitter",Não se aplica,0,0
+C7,ÁREA,Urbana,TikTok,Várias vezes ao dia,38,38
+C7,ÁREA,Urbana,TikTok,Todos os dias ou quase todos os dias,12,12
+C7,ÁREA,Urbana,TikTok,Pelo menos uma vez por semana,10,10
+C7,ÁREA,Urbana,TikTok,Pelo menos uma vez no mês,4,4
+C7,ÁREA,Urbana,TikTok,Nunca ou quase nunca,35,35
+C7,ÁREA,Urbana,TikTok,Não sabe,1,1
+C7,ÁREA,Urbana,TikTok,Não respondeu,0,0
+C7,ÁREA,Urbana,TikTok,Não se aplica,0,0
+C7,ÁREA,Urbana,WhatsApp,Várias vezes ao dia,55,55
+C7,ÁREA,Urbana,WhatsApp,Todos os dias ou quase todos os dias,16,16
+C7,ÁREA,Urbana,WhatsApp,Pelo menos uma vez por semana,6,6
+C7,ÁREA,Urbana,WhatsApp,Pelo menos uma vez no mês,3,3
+C7,ÁREA,Urbana,WhatsApp,Nunca ou quase nunca,20,20
+C7,ÁREA,Urbana,WhatsApp,Não sabe,0,0
+C7,ÁREA,Urbana,WhatsApp,Não respondeu,0,0
+C7,ÁREA,Urbana,WhatsApp,Não se aplica,0,0
+C7,ÁREA,Urbana,YouTube,Várias vezes ao dia,46,46
+C7,ÁREA,Urbana,YouTube,Todos os dias ou quase todos os dias,21,21
+C7,ÁREA,Urbana,YouTube,Pelo menos uma vez por semana,14,14
+C7,ÁREA,Urbana,YouTube,Pelo menos uma vez no mês,3,3
+C7,ÁREA,Urbana,YouTube,Nunca ou quase nunca,16,16
+C7,ÁREA,Urbana,YouTube,Não sabe,0,0
+C7,ÁREA,Urbana,YouTube,Não respondeu,1,1
+C7,ÁREA,Urbana,YouTube,Não se aplica,0,0
+C7,ÁREA,Urbana,Discord,Várias vezes ao dia,6,6
+C7,ÁREA,Urbana,Discord,Todos os dias ou quase todos os dias,2,2
+C7,ÁREA,Urbana,Discord,Pelo menos uma vez por semana,3,3
+C7,ÁREA,Urbana,Discord,Pelo menos uma vez no mês,2,2
+C7,ÁREA,Urbana,Discord,Nunca ou quase nunca,80,80
+C7,ÁREA,Urbana,Discord,Não sabe,6,6
+C7,ÁREA,Urbana,Discord,Não respondeu,2,2
+C7,ÁREA,Urbana,Discord,Não se aplica,0,0
+C7,ÁREA,Rural,Facebook,Várias vezes ao dia,8,8
+C7,ÁREA,Rural,Facebook,Todos os dias ou quase todos os dias,9,9
+C7,ÁREA,Rural,Facebook,Pelo menos uma vez por semana,9,9
+C7,ÁREA,Rural,Facebook,Pelo menos uma vez no mês,6,6
+C7,ÁREA,Rural,Facebook,Nunca ou quase nunca,66,66
+C7,ÁREA,Rural,Facebook,Não sabe,1,1
+C7,ÁREA,Rural,Facebook,Não respondeu,0,0
+C7,ÁREA,Rural,Facebook,Não se aplica,0,0
+C7,ÁREA,Rural,Instagram,Várias vezes ao dia,38,38
+C7,ÁREA,Rural,Instagram,Todos os dias ou quase todos os dias,20,20
+C7,ÁREA,Rural,Instagram,Pelo menos uma vez por semana,7,7
+C7,ÁREA,Rural,Instagram,Pelo menos uma vez no mês,4,4
+C7,ÁREA,Rural,Instagram,Nunca ou quase nunca,30,30
+C7,ÁREA,Rural,Instagram,Não sabe,1,1
+C7,ÁREA,Rural,Instagram,Não respondeu,0,0
+C7,ÁREA,Rural,Instagram,Não se aplica,0,0
+C7,ÁREA,Rural,"X, antigo Twitter",Várias vezes ao dia,3,3
+C7,ÁREA,Rural,"X, antigo Twitter",Todos os dias ou quase todos os dias,1,1
+C7,ÁREA,Rural,"X, antigo Twitter",Pelo menos uma vez por semana,4,4
+C7,ÁREA,Rural,"X, antigo Twitter",Pelo menos uma vez no mês,1,1
+C7,ÁREA,Rural,"X, antigo Twitter",Nunca ou quase nunca,88,88
+C7,ÁREA,Rural,"X, antigo Twitter",Não sabe,2,2
+C7,ÁREA,Rural,"X, antigo Twitter",Não respondeu,1,1
+C7,ÁREA,Rural,"X, antigo Twitter",Não se aplica,0,0
+C7,ÁREA,Rural,TikTok,Várias vezes ao dia,36,36
+C7,ÁREA,Rural,TikTok,Todos os dias ou quase todos os dias,19,19
+C7,ÁREA,Rural,TikTok,Pelo menos uma vez por semana,8,8
+C7,ÁREA,Rural,TikTok,Pelo menos uma vez no mês,4,4
+C7,ÁREA,Rural,TikTok,Nunca ou quase nunca,32,32
+C7,ÁREA,Rural,TikTok,Não sabe,1,1
+C7,ÁREA,Rural,TikTok,Não respondeu,0,0
+C7,ÁREA,Rural,TikTok,Não se aplica,0,0
+C7,ÁREA,Rural,WhatsApp,Várias vezes ao dia,42,42
+C7,ÁREA,Rural,WhatsApp,Todos os dias ou quase todos os dias,25,25
+C7,ÁREA,Rural,WhatsApp,Pelo menos uma vez por semana,10,10
+C7,ÁREA,Rural,WhatsApp,Pelo menos uma vez no mês,3,3
+C7,ÁREA,Rural,WhatsApp,Nunca ou quase nunca,20,20
+C7,ÁREA,Rural,WhatsApp,Não sabe,0,0
+C7,ÁREA,Rural,WhatsApp,Não respondeu,0,0
+C7,ÁREA,Rural,WhatsApp,Não se aplica,0,0
+C7,ÁREA,Rural,YouTube,Várias vezes ao dia,26,26
+C7,ÁREA,Rural,YouTube,Todos os dias ou quase todos os dias,37,37
+C7,ÁREA,Rural,YouTube,Pelo menos uma vez por semana,12,12
+C7,ÁREA,Rural,YouTube,Pelo menos uma vez no mês,6,6
+C7,ÁREA,Rural,YouTube,Nunca ou quase nunca,18,18
+C7,ÁREA,Rural,YouTube,Não sabe,0,0
+C7,ÁREA,Rural,YouTube,Não respondeu,0,0
+C7,ÁREA,Rural,YouTube,Não se aplica,0,0
+C7,ÁREA,Rural,Discord,Várias vezes ao dia,3,3
+C7,ÁREA,Rural,Discord,Todos os dias ou quase todos os dias,2,2
+C7,ÁREA,Rural,Discord,Pelo menos uma vez por semana,1,1
+C7,ÁREA,Rural,Discord,Pelo menos uma vez no mês,2,2
+C7,ÁREA,Rural,Discord,Nunca ou quase nunca,88,88
+C7,ÁREA,Rural,Discord,Não sabe,3,3
+C7,ÁREA,Rural,Discord,Não respondeu,2,2
+C7,ÁREA,Rural,Discord,Não se aplica,0,0
+C7,REGIÃO,Sudeste,Facebook,Várias vezes ao dia,17,17
+C7,REGIÃO,Sudeste,Facebook,Todos os dias ou quase todos os dias,7,7
+C7,REGIÃO,Sudeste,Facebook,Pelo menos uma vez por semana,10,10
+C7,REGIÃO,Sudeste,Facebook,Pelo menos uma vez no mês,6,6
+C7,REGIÃO,Sudeste,Facebook,Nunca ou quase nunca,59,59
+C7,REGIÃO,Sudeste,Facebook,Não sabe,0,0
+C7,REGIÃO,Sudeste,Facebook,Não respondeu,0,0
+C7,REGIÃO,Sudeste,Facebook,Não se aplica,0,0
+C7,REGIÃO,Sudeste,Instagram,Várias vezes ao dia,46,46
+C7,REGIÃO,Sudeste,Instagram,Todos os dias ou quase todos os dias,12,12
+C7,REGIÃO,Sudeste,Instagram,Pelo menos uma vez por semana,5,5
+C7,REGIÃO,Sudeste,Instagram,Pelo menos uma vez no mês,2,2
+C7,REGIÃO,Sudeste,Instagram,Nunca ou quase nunca,35,35
+C7,REGIÃO,Sudeste,Instagram,Não sabe,0,0
+C7,REGIÃO,Sudeste,Instagram,Não respondeu,0,0
+C7,REGIÃO,Sudeste,Instagram,Não se aplica,0,0
+C7,REGIÃO,Sudeste,"X, antigo Twitter",Várias vezes ao dia,3,3
+C7,REGIÃO,Sudeste,"X, antigo Twitter",Todos os dias ou quase todos os dias,2,2
+C7,REGIÃO,Sudeste,"X, antigo Twitter",Pelo menos uma vez por semana,8,8
+C7,REGIÃO,Sudeste,"X, antigo Twitter",Pelo menos uma vez no mês,3,3
+C7,REGIÃO,Sudeste,"X, antigo Twitter",Nunca ou quase nunca,82,82
+C7,REGIÃO,Sudeste,"X, antigo Twitter",Não sabe,2,2
+C7,REGIÃO,Sudeste,"X, antigo Twitter",Não respondeu,1,1
+C7,REGIÃO,Sudeste,"X, antigo Twitter",Não se aplica,0,0
+C7,REGIÃO,Sudeste,TikTok,Várias vezes ao dia,35,35
+C7,REGIÃO,Sudeste,TikTok,Todos os dias ou quase todos os dias,9,9
+C7,REGIÃO,Sudeste,TikTok,Pelo menos uma vez por semana,11,11
+C7,REGIÃO,Sudeste,TikTok,Pelo menos uma vez no mês,7,7
+C7,REGIÃO,Sudeste,TikTok,Nunca ou quase nunca,36,36
+C7,REGIÃO,Sudeste,TikTok,Não sabe,1,1
+C7,REGIÃO,Sudeste,TikTok,Não respondeu,0,0
+C7,REGIÃO,Sudeste,TikTok,Não se aplica,0,0
+C7,REGIÃO,Sudeste,WhatsApp,Várias vezes ao dia,57,57
+C7,REGIÃO,Sudeste,WhatsApp,Todos os dias ou quase todos os dias,13,13
+C7,REGIÃO,Sudeste,WhatsApp,Pelo menos uma vez por semana,4,4
+C7,REGIÃO,Sudeste,WhatsApp,Pelo menos uma vez no mês,3,3
+C7,REGIÃO,Sudeste,WhatsApp,Nunca ou quase nunca,23,23
+C7,REGIÃO,Sudeste,WhatsApp,Não sabe,0,0
+C7,REGIÃO,Sudeste,WhatsApp,Não respondeu,0,0
+C7,REGIÃO,Sudeste,WhatsApp,Não se aplica,0,0
+C7,REGIÃO,Sudeste,YouTube,Várias vezes ao dia,47,47
+C7,REGIÃO,Sudeste,YouTube,Todos os dias ou quase todos os dias,19,19
+C7,REGIÃO,Sudeste,YouTube,Pelo menos uma vez por semana,12,12
+C7,REGIÃO,Sudeste,YouTube,Pelo menos uma vez no mês,2,2
+C7,REGIÃO,Sudeste,YouTube,Nunca ou quase nunca,19,19
+C7,REGIÃO,Sudeste,YouTube,Não sabe,0,0
+C7,REGIÃO,Sudeste,YouTube,Não respondeu,1,1
+C7,REGIÃO,Sudeste,YouTube,Não se aplica,0,0
+C7,REGIÃO,Sudeste,Discord,Várias vezes ao dia,7,7
+C7,REGIÃO,Sudeste,Discord,Todos os dias ou quase todos os dias,2,2
+C7,REGIÃO,Sudeste,Discord,Pelo menos uma vez por semana,2,2
+C7,REGIÃO,Sudeste,Discord,Pelo menos uma vez no mês,1,1
+C7,REGIÃO,Sudeste,Discord,Nunca ou quase nunca,81,81
+C7,REGIÃO,Sudeste,Discord,Não sabe,4,4
+C7,REGIÃO,Sudeste,Discord,Não respondeu,3,3
+C7,REGIÃO,Sudeste,Discord,Não se aplica,0,0
+C7,REGIÃO,Nordeste,Facebook,Várias vezes ao dia,5,5
+C7,REGIÃO,Nordeste,Facebook,Todos os dias ou quase todos os dias,6,6
+C7,REGIÃO,Nordeste,Facebook,Pelo menos uma vez por semana,5,5
+C7,REGIÃO,Nordeste,Facebook,Pelo menos uma vez no mês,5,5
+C7,REGIÃO,Nordeste,Facebook,Nunca ou quase nunca,78,78
+C7,REGIÃO,Nordeste,Facebook,Não sabe,1,1
+C7,REGIÃO,Nordeste,Facebook,Não respondeu,0,0
+C7,REGIÃO,Nordeste,Facebook,Não se aplica,0,0
+C7,REGIÃO,Nordeste,Instagram,Várias vezes ao dia,46,46
+C7,REGIÃO,Nordeste,Instagram,Todos os dias ou quase todos os dias,20,20
+C7,REGIÃO,Nordeste,Instagram,Pelo menos uma vez por semana,9,9
+C7,REGIÃO,Nordeste,Instagram,Pelo menos uma vez no mês,3,3
+C7,REGIÃO,Nordeste,Instagram,Nunca ou quase nunca,22,22
+C7,REGIÃO,Nordeste,Instagram,Não sabe,1,1
+C7,REGIÃO,Nordeste,Instagram,Não respondeu,0,0
+C7,REGIÃO,Nordeste,Instagram,Não se aplica,0,0
+C7,REGIÃO,Nordeste,"X, antigo Twitter",Várias vezes ao dia,3,3
+C7,REGIÃO,Nordeste,"X, antigo Twitter",Todos os dias ou quase todos os dias,1,1
+C7,REGIÃO,Nordeste,"X, antigo Twitter",Pelo menos uma vez por semana,4,4
+C7,REGIÃO,Nordeste,"X, antigo Twitter",Pelo menos uma vez no mês,2,2
+C7,REGIÃO,Nordeste,"X, antigo Twitter",Nunca ou quase nunca,88,88
+C7,REGIÃO,Nordeste,"X, antigo Twitter",Não sabe,2,2
+C7,REGIÃO,Nordeste,"X, antigo Twitter",Não respondeu,0,0
+C7,REGIÃO,Nordeste,"X, antigo Twitter",Não se aplica,0,0
+C7,REGIÃO,Nordeste,TikTok,Várias vezes ao dia,35,35
+C7,REGIÃO,Nordeste,TikTok,Todos os dias ou quase todos os dias,18,18
+C7,REGIÃO,Nordeste,TikTok,Pelo menos uma vez por semana,9,9
+C7,REGIÃO,Nordeste,TikTok,Pelo menos uma vez no mês,3,3
+C7,REGIÃO,Nordeste,TikTok,Nunca ou quase nunca,35,35
+C7,REGIÃO,Nordeste,TikTok,Não sabe,0,0
+C7,REGIÃO,Nordeste,TikTok,Não respondeu,0,0
+C7,REGIÃO,Nordeste,TikTok,Não se aplica,0,0
+C7,REGIÃO,Nordeste,WhatsApp,Várias vezes ao dia,46,46
+C7,REGIÃO,Nordeste,WhatsApp,Todos os dias ou quase todos os dias,22,22
+C7,REGIÃO,Nordeste,WhatsApp,Pelo menos uma vez por semana,9,9
+C7,REGIÃO,Nordeste,WhatsApp,Pelo menos uma vez no mês,3,3
+C7,REGIÃO,Nordeste,WhatsApp,Nunca ou quase nunca,19,19
+C7,REGIÃO,Nordeste,WhatsApp,Não sabe,0,0
+C7,REGIÃO,Nordeste,WhatsApp,Não respondeu,0,0
+C7,REGIÃO,Nordeste,WhatsApp,Não se aplica,0,0
+C7,REGIÃO,Nordeste,YouTube,Várias vezes ao dia,41,41
+C7,REGIÃO,Nordeste,YouTube,Todos os dias ou quase todos os dias,26,26
+C7,REGIÃO,Nordeste,YouTube,Pelo menos uma vez por semana,12,12
+C7,REGIÃO,Nordeste,YouTube,Pelo menos uma vez no mês,6,6
+C7,REGIÃO,Nordeste,YouTube,Nunca ou quase nunca,16,16
+C7,REGIÃO,Nordeste,YouTube,Não sabe,0,0
+C7,REGIÃO,Nordeste,YouTube,Não respondeu,0,0
+C7,REGIÃO,Nordeste,YouTube,Não se aplica,0,0
+C7,REGIÃO,Nordeste,Discord,Várias vezes ao dia,4,4
+C7,REGIÃO,Nordeste,Discord,Todos os dias ou quase todos os dias,2,2
+C7,REGIÃO,Nordeste,Discord,Pelo menos uma vez por semana,2,2
+C7,REGIÃO,Nordeste,Discord,Pelo menos uma vez no mês,2,2
+C7,REGIÃO,Nordeste,Discord,Nunca ou quase nunca,83,83
+C7,REGIÃO,Nordeste,Discord,Não sabe,7,7
+C7,REGIÃO,Nordeste,Discord,Não respondeu,1,1
+C7,REGIÃO,Nordeste,Discord,Não se aplica,0,0
+C7,REGIÃO,Sul,Facebook,Várias vezes ao dia,5,5
+C7,REGIÃO,Sul,Facebook,Todos os dias ou quase todos os dias,9,9
+C7,REGIÃO,Sul,Facebook,Pelo menos uma vez por semana,9,9
+C7,REGIÃO,Sul,Facebook,Pelo menos uma vez no mês,6,6
+C7,REGIÃO,Sul,Facebook,Nunca ou quase nunca,67,67
+C7,REGIÃO,Sul,Facebook,Não sabe,1,1
+C7,REGIÃO,Sul,Facebook,Não respondeu,2,2
+C7,REGIÃO,Sul,Facebook,Não se aplica,0,0
+C7,REGIÃO,Sul,Instagram,Várias vezes ao dia,43,43
+C7,REGIÃO,Sul,Instagram,Todos os dias ou quase todos os dias,15,15
+C7,REGIÃO,Sul,Instagram,Pelo menos uma vez por semana,8,8
+C7,REGIÃO,Sul,Instagram,Pelo menos uma vez no mês,2,2
+C7,REGIÃO,Sul,Instagram,Nunca ou quase nunca,32,32
+C7,REGIÃO,Sul,Instagram,Não sabe,1,1
+C7,REGIÃO,Sul,Instagram,Não respondeu,0,0
+C7,REGIÃO,Sul,Instagram,Não se aplica,0,0
+C7,REGIÃO,Sul,"X, antigo Twitter",Várias vezes ao dia,5,5
+C7,REGIÃO,Sul,"X, antigo Twitter",Todos os dias ou quase todos os dias,3,3
+C7,REGIÃO,Sul,"X, antigo Twitter",Pelo menos uma vez por semana,9,9
+C7,REGIÃO,Sul,"X, antigo Twitter",Pelo menos uma vez no mês,3,3
+C7,REGIÃO,Sul,"X, antigo Twitter",Nunca ou quase nunca,79,79
+C7,REGIÃO,Sul,"X, antigo Twitter",Não sabe,2,2
+C7,REGIÃO,Sul,"X, antigo Twitter",Não respondeu,0,0
+C7,REGIÃO,Sul,"X, antigo Twitter",Não se aplica,0,0
+C7,REGIÃO,Sul,TikTok,Várias vezes ao dia,45,45
+C7,REGIÃO,Sul,TikTok,Todos os dias ou quase todos os dias,14,14
+C7,REGIÃO,Sul,TikTok,Pelo menos uma vez por semana,9,9
+C7,REGIÃO,Sul,TikTok,Pelo menos uma vez no mês,2,2
+C7,REGIÃO,Sul,TikTok,Nunca ou quase nunca,28,28
+C7,REGIÃO,Sul,TikTok,Não sabe,2,2
+C7,REGIÃO,Sul,TikTok,Não respondeu,0,0
+C7,REGIÃO,Sul,TikTok,Não se aplica,0,0
+C7,REGIÃO,Sul,WhatsApp,Várias vezes ao dia,58,58
+C7,REGIÃO,Sul,WhatsApp,Todos os dias ou quase todos os dias,20,20
+C7,REGIÃO,Sul,WhatsApp,Pelo menos uma vez por semana,8,8
+C7,REGIÃO,Sul,WhatsApp,Pelo menos uma vez no mês,2,2
+C7,REGIÃO,Sul,WhatsApp,Nunca ou quase nunca,11,11
+C7,REGIÃO,Sul,WhatsApp,Não sabe,1,1
+C7,REGIÃO,Sul,WhatsApp,Não respondeu,0,0
+C7,REGIÃO,Sul,WhatsApp,Não se aplica,0,0
+C7,REGIÃO,Sul,YouTube,Várias vezes ao dia,40,40
+C7,REGIÃO,Sul,YouTube,Todos os dias ou quase todos os dias,22,22
+C7,REGIÃO,Sul,YouTube,Pelo menos uma vez por semana,24,24
+C7,REGIÃO,Sul,YouTube,Pelo menos uma vez no mês,5,5
+C7,REGIÃO,Sul,YouTube,Nunca ou quase nunca,9,9
+C7,REGIÃO,Sul,YouTube,Não sabe,0,0
+C7,REGIÃO,Sul,YouTube,Não respondeu,0,0
+C7,REGIÃO,Sul,YouTube,Não se aplica,0,0
+C7,REGIÃO,Sul,Discord,Várias vezes ao dia,4,4
+C7,REGIÃO,Sul,Discord,Todos os dias ou quase todos os dias,2,2
+C7,REGIÃO,Sul,Discord,Pelo menos uma vez por semana,2,2
+C7,REGIÃO,Sul,Discord,Pelo menos uma vez no mês,7,7
+C7,REGIÃO,Sul,Discord,Nunca ou quase nunca,77,77
+C7,REGIÃO,Sul,Discord,Não sabe,7,7
+C7,REGIÃO,Sul,Discord,Não respondeu,0,0
+C7,REGIÃO,Sul,Discord,Não se aplica,0,0
+C7,REGIÃO,Norte,Facebook,Várias vezes ao dia,8,8
+C7,REGIÃO,Norte,Facebook,Todos os dias ou quase todos os dias,9,9
+C7,REGIÃO,Norte,Facebook,Pelo menos uma vez por semana,8,8
+C7,REGIÃO,Norte,Facebook,Pelo menos uma vez no mês,4,4
+C7,REGIÃO,Norte,Facebook,Nunca ou quase nunca,69,69
+C7,REGIÃO,Norte,Facebook,Não sabe,1,1
+C7,REGIÃO,Norte,Facebook,Não respondeu,0,0
+C7,REGIÃO,Norte,Facebook,Não se aplica,0,0
+C7,REGIÃO,Norte,Instagram,Várias vezes ao dia,36,36
+C7,REGIÃO,Norte,Instagram,Todos os dias ou quase todos os dias,18,18
+C7,REGIÃO,Norte,Instagram,Pelo menos uma vez por semana,8,8
+C7,REGIÃO,Norte,Instagram,Pelo menos uma vez no mês,3,3
+C7,REGIÃO,Norte,Instagram,Nunca ou quase nunca,33,33
+C7,REGIÃO,Norte,Instagram,Não sabe,1,1
+C7,REGIÃO,Norte,Instagram,Não respondeu,1,1
+C7,REGIÃO,Norte,Instagram,Não se aplica,0,0
+C7,REGIÃO,Norte,"X, antigo Twitter",Várias vezes ao dia,3,3
+C7,REGIÃO,Norte,"X, antigo Twitter",Todos os dias ou quase todos os dias,3,3
+C7,REGIÃO,Norte,"X, antigo Twitter",Pelo menos uma vez por semana,2,2
+C7,REGIÃO,Norte,"X, antigo Twitter",Pelo menos uma vez no mês,2,2
+C7,REGIÃO,Norte,"X, antigo Twitter",Nunca ou quase nunca,86,86
+C7,REGIÃO,Norte,"X, antigo Twitter",Não sabe,2,2
+C7,REGIÃO,Norte,"X, antigo Twitter",Não respondeu,1,1
+C7,REGIÃO,Norte,"X, antigo Twitter",Não se aplica,0,0
+C7,REGIÃO,Norte,TikTok,Várias vezes ao dia,35,35
+C7,REGIÃO,Norte,TikTok,Todos os dias ou quase todos os dias,18,18
+C7,REGIÃO,Norte,TikTok,Pelo menos uma vez por semana,9,9
+C7,REGIÃO,Norte,TikTok,Pelo menos uma vez no mês,3,3
+C7,REGIÃO,Norte,TikTok,Nunca ou quase nunca,33,33
+C7,REGIÃO,Norte,TikTok,Não sabe,1,1
+C7,REGIÃO,Norte,TikTok,Não respondeu,1,1
+C7,REGIÃO,Norte,TikTok,Não se aplica,0,0
+C7,REGIÃO,Norte,WhatsApp,Várias vezes ao dia,44,44
+C7,REGIÃO,Norte,WhatsApp,Todos os dias ou quase todos os dias,22,22
+C7,REGIÃO,Norte,WhatsApp,Pelo menos uma vez por semana,8,8
+C7,REGIÃO,Norte,WhatsApp,Pelo menos uma vez no mês,1,1
+C7,REGIÃO,Norte,WhatsApp,Nunca ou quase nunca,24,24
+C7,REGIÃO,Norte,WhatsApp,Não sabe,1,1
+C7,REGIÃO,Norte,WhatsApp,Não respondeu,0,0
+C7,REGIÃO,Norte,WhatsApp,Não se aplica,0,0
+C7,REGIÃO,Norte,YouTube,Várias vezes ao dia,36,36
+C7,REGIÃO,Norte,YouTube,Todos os dias ou quase todos os dias,28,28
+C7,REGIÃO,Norte,YouTube,Pelo menos uma vez por semana,16,16
+C7,REGIÃO,Norte,YouTube,Pelo menos uma vez no mês,2,2
+C7,REGIÃO,Norte,YouTube,Nunca ou quase nunca,17,17
+C7,REGIÃO,Norte,YouTube,Não sabe,0,0
+C7,REGIÃO,Norte,YouTube,Não respondeu,0,0
+C7,REGIÃO,Norte,YouTube,Não se aplica,0,0
+C7,REGIÃO,Norte,Discord,Várias vezes ao dia,2,2
+C7,REGIÃO,Norte,Discord,Todos os dias ou quase todos os dias,2,2
+C7,REGIÃO,Norte,Discord,Pelo menos uma vez por semana,5,5
+C7,REGIÃO,Norte,Discord,Pelo menos uma vez no mês,3,3
+C7,REGIÃO,Norte,Discord,Nunca ou quase nunca,82,82
+C7,REGIÃO,Norte,Discord,Não sabe,4,4
+C7,REGIÃO,Norte,Discord,Não respondeu,1,1
+C7,REGIÃO,Norte,Discord,Não se aplica,0,0
+C7,REGIÃO,Centro-Oeste,Facebook,Várias vezes ao dia,4,4
+C7,REGIÃO,Centro-Oeste,Facebook,Todos os dias ou quase todos os dias,5,5
+C7,REGIÃO,Centro-Oeste,Facebook,Pelo menos uma vez por semana,7,7
+C7,REGIÃO,Centro-Oeste,Facebook,Pelo menos uma vez no mês,10,10
+C7,REGIÃO,Centro-Oeste,Facebook,Nunca ou quase nunca,72,72
+C7,REGIÃO,Centro-Oeste,Facebook,Não sabe,2,2
+C7,REGIÃO,Centro-Oeste,Facebook,Não respondeu,0,0
+C7,REGIÃO,Centro-Oeste,Facebook,Não se aplica,0,0
+C7,REGIÃO,Centro-Oeste,Instagram,Várias vezes ao dia,51,51
+C7,REGIÃO,Centro-Oeste,Instagram,Todos os dias ou quase todos os dias,12,12
+C7,REGIÃO,Centro-Oeste,Instagram,Pelo menos uma vez por semana,5,5
+C7,REGIÃO,Centro-Oeste,Instagram,Pelo menos uma vez no mês,2,2
+C7,REGIÃO,Centro-Oeste,Instagram,Nunca ou quase nunca,30,30
+C7,REGIÃO,Centro-Oeste,Instagram,Não sabe,1,1
+C7,REGIÃO,Centro-Oeste,Instagram,Não respondeu,0,0
+C7,REGIÃO,Centro-Oeste,Instagram,Não se aplica,0,0
+C7,REGIÃO,Centro-Oeste,"X, antigo Twitter",Várias vezes ao dia,1,1
+C7,REGIÃO,Centro-Oeste,"X, antigo Twitter",Todos os dias ou quase todos os dias,1,1
+C7,REGIÃO,Centro-Oeste,"X, antigo Twitter",Pelo menos uma vez por semana,0,0
+C7,REGIÃO,Centro-Oeste,"X, antigo Twitter",Pelo menos uma vez no mês,2,2
+C7,REGIÃO,Centro-Oeste,"X, antigo Twitter",Nunca ou quase nunca,91,91
+C7,REGIÃO,Centro-Oeste,"X, antigo Twitter",Não sabe,5,5
+C7,REGIÃO,Centro-Oeste,"X, antigo Twitter",Não respondeu,0,0
+C7,REGIÃO,Centro-Oeste,"X, antigo Twitter",Não se aplica,0,0
+C7,REGIÃO,Centro-Oeste,TikTok,Várias vezes ao dia,43,43
+C7,REGIÃO,Centro-Oeste,TikTok,Todos os dias ou quase todos os dias,9,9
+C7,REGIÃO,Centro-Oeste,TikTok,Pelo menos uma vez por semana,10,10
+C7,REGIÃO,Centro-Oeste,TikTok,Pelo menos uma vez no mês,2,2
+C7,REGIÃO,Centro-Oeste,TikTok,Nunca ou quase nunca,34,34
+C7,REGIÃO,Centro-Oeste,TikTok,Não sabe,1,1
+C7,REGIÃO,Centro-Oeste,TikTok,Não respondeu,0,0
+C7,REGIÃO,Centro-Oeste,TikTok,Não se aplica,0,0
+C7,REGIÃO,Centro-Oeste,WhatsApp,Várias vezes ao dia,62,62
+C7,REGIÃO,Centro-Oeste,WhatsApp,Todos os dias ou quase todos os dias,13,13
+C7,REGIÃO,Centro-Oeste,WhatsApp,Pelo menos uma vez por semana,4,4
+C7,REGIÃO,Centro-Oeste,WhatsApp,Pelo menos uma vez no mês,2,2
+C7,REGIÃO,Centro-Oeste,WhatsApp,Nunca ou quase nunca,19,19
+C7,REGIÃO,Centro-Oeste,WhatsApp,Não sabe,0,0
+C7,REGIÃO,Centro-Oeste,WhatsApp,Não respondeu,0,0
+C7,REGIÃO,Centro-Oeste,WhatsApp,Não se aplica,0,0
+C7,REGIÃO,Centro-Oeste,YouTube,Várias vezes ao dia,46,46
+C7,REGIÃO,Centro-Oeste,YouTube,Todos os dias ou quase todos os dias,23,23
+C7,REGIÃO,Centro-Oeste,YouTube,Pelo menos uma vez por semana,9,9
+C7,REGIÃO,Centro-Oeste,YouTube,Pelo menos uma vez no mês,5,5
+C7,REGIÃO,Centro-Oeste,YouTube,Nunca ou quase nunca,17,17
+C7,REGIÃO,Centro-Oeste,YouTube,Não sabe,0,0
+C7,REGIÃO,Centro-Oeste,YouTube,Não respondeu,0,0
+C7,REGIÃO,Centro-Oeste,YouTube,Não se aplica,0,0
+C7,REGIÃO,Centro-Oeste,Discord,Várias vezes ao dia,6,6
+C7,REGIÃO,Centro-Oeste,Discord,Todos os dias ou quase todos os dias,0,0
+C7,REGIÃO,Centro-Oeste,Discord,Pelo menos uma vez por semana,3,3
+C7,REGIÃO,Centro-Oeste,Discord,Pelo menos uma vez no mês,1,1
+C7,REGIÃO,Centro-Oeste,Discord,Nunca ou quase nunca,78,78
+C7,REGIÃO,Centro-Oeste,Discord,Não sabe,9,9
+C7,REGIÃO,Centro-Oeste,Discord,Não respondeu,2,2
+C7,REGIÃO,Centro-Oeste,Discord,Não se aplica,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,Facebook,Várias vezes ao dia,7,7
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,Facebook,Todos os dias ou quase todos os dias,9,9
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,Facebook,Pelo menos uma vez por semana,9,9
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,Facebook,Pelo menos uma vez no mês,7,7
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,Facebook,Nunca ou quase nunca,67,67
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,Facebook,Não sabe,1,1
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,Facebook,Não respondeu,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,Facebook,Não se aplica,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,Instagram,Várias vezes ao dia,41,41
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,Instagram,Todos os dias ou quase todos os dias,13,13
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,Instagram,Pelo menos uma vez por semana,8,8
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,Instagram,Pelo menos uma vez no mês,3,3
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,Instagram,Nunca ou quase nunca,34,34
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,Instagram,Não sabe,1,1
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,Instagram,Não respondeu,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,Instagram,Não se aplica,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,"X, antigo Twitter",Várias vezes ao dia,3,3
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,"X, antigo Twitter",Todos os dias ou quase todos os dias,2,2
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,"X, antigo Twitter",Pelo menos uma vez por semana,7,7
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,"X, antigo Twitter",Pelo menos uma vez no mês,3,3
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,"X, antigo Twitter",Nunca ou quase nunca,81,81
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,"X, antigo Twitter",Não sabe,3,3
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,"X, antigo Twitter",Não respondeu,1,1
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,"X, antigo Twitter",Não se aplica,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,TikTok,Várias vezes ao dia,33,33
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,TikTok,Todos os dias ou quase todos os dias,11,11
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,TikTok,Pelo menos uma vez por semana,10,10
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,TikTok,Pelo menos uma vez no mês,7,7
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,TikTok,Nunca ou quase nunca,36,36
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,TikTok,Não sabe,2,2
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,TikTok,Não respondeu,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,TikTok,Não se aplica,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,WhatsApp,Várias vezes ao dia,51,51
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,WhatsApp,Todos os dias ou quase todos os dias,18,18
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,WhatsApp,Pelo menos uma vez por semana,6,6
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,WhatsApp,Pelo menos uma vez no mês,4,4
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,WhatsApp,Nunca ou quase nunca,20,20
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,WhatsApp,Não sabe,1,1
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,WhatsApp,Não respondeu,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,WhatsApp,Não se aplica,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,YouTube,Várias vezes ao dia,54,54
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,YouTube,Todos os dias ou quase todos os dias,21,21
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,YouTube,Pelo menos uma vez por semana,8,8
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,YouTube,Pelo menos uma vez no mês,2,2
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,YouTube,Nunca ou quase nunca,14,14
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,YouTube,Não sabe,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,YouTube,Não respondeu,1,1
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,YouTube,Não se aplica,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,Discord,Várias vezes ao dia,10,10
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,Discord,Todos os dias ou quase todos os dias,3,3
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,Discord,Pelo menos uma vez por semana,4,4
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,Discord,Pelo menos uma vez no mês,3,3
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,Discord,Nunca ou quase nunca,71,71
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,Discord,Não sabe,6,6
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,Discord,Não respondeu,3,3
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Masculino,Discord,Não se aplica,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,Facebook,Várias vezes ao dia,12,12
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,Facebook,Todos os dias ou quase todos os dias,6,6
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,Facebook,Pelo menos uma vez por semana,7,7
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,Facebook,Pelo menos uma vez no mês,5,5
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,Facebook,Nunca ou quase nunca,69,69
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,Facebook,Não sabe,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,Facebook,Não respondeu,1,1
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,Facebook,Não se aplica,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,Instagram,Várias vezes ao dia,48,48
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,Instagram,Todos os dias ou quase todos os dias,17,17
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,Instagram,Pelo menos uma vez por semana,6,6
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,Instagram,Pelo menos uma vez no mês,2,2
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,Instagram,Nunca ou quase nunca,27,27
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,Instagram,Não sabe,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,Instagram,Não respondeu,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,Instagram,Não se aplica,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,"X, antigo Twitter",Várias vezes ao dia,3,3
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,"X, antigo Twitter",Todos os dias ou quase todos os dias,2,2
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,"X, antigo Twitter",Pelo menos uma vez por semana,5,5
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,"X, antigo Twitter",Pelo menos uma vez no mês,1,1
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,"X, antigo Twitter",Nunca ou quase nunca,87,87
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,"X, antigo Twitter",Não sabe,1,1
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,"X, antigo Twitter",Não respondeu,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,"X, antigo Twitter",Não se aplica,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,TikTok,Várias vezes ao dia,42,42
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,TikTok,Todos os dias ou quase todos os dias,14,14
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,TikTok,Pelo menos uma vez por semana,10,10
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,TikTok,Pelo menos uma vez no mês,2,2
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,TikTok,Nunca ou quase nunca,32,32
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,TikTok,Não sabe,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,TikTok,Não respondeu,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,TikTok,Não se aplica,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,WhatsApp,Várias vezes ao dia,55,55
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,WhatsApp,Todos os dias ou quase todos os dias,17,17
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,WhatsApp,Pelo menos uma vez por semana,6,6
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,WhatsApp,Pelo menos uma vez no mês,1,1
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,WhatsApp,Nunca ou quase nunca,20,20
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,WhatsApp,Não sabe,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,WhatsApp,Não respondeu,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,WhatsApp,Não se aplica,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,YouTube,Várias vezes ao dia,33,33
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,YouTube,Todos os dias ou quase todos os dias,25,25
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,YouTube,Pelo menos uma vez por semana,19,19
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,YouTube,Pelo menos uma vez no mês,5,5
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,YouTube,Nunca ou quase nunca,18,18
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,YouTube,Não sabe,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,YouTube,Não respondeu,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,YouTube,Não se aplica,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,Discord,Várias vezes ao dia,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,Discord,Todos os dias ou quase todos os dias,0,0
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,Discord,Pelo menos uma vez por semana,1,1
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,Discord,Pelo menos uma vez no mês,2,2
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,Discord,Nunca ou quase nunca,91,91
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,Discord,Não sabe,5,5
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,Discord,Não respondeu,1,1
+C7,SEXO DA CRIANÇA OU DO ADOLESCENTE,Feminino,Discord,Não se aplica,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,Facebook,Várias vezes ao dia,24,24
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,Facebook,Todos os dias ou quase todos os dias,5,5
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,Facebook,Pelo menos uma vez por semana,7,7
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,Facebook,Pelo menos uma vez no mês,3,3
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,Facebook,Nunca ou quase nunca,60,60
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,Facebook,Não sabe,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,Facebook,Não respondeu,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,Facebook,Não se aplica,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,Instagram,Várias vezes ao dia,53,53
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,Instagram,Todos os dias ou quase todos os dias,16,16
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,Instagram,Pelo menos uma vez por semana,8,8
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,Instagram,Pelo menos uma vez no mês,2,2
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,Instagram,Nunca ou quase nunca,21,21
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,Instagram,Não sabe,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,Instagram,Não respondeu,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,Instagram,Não se aplica,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,"X, antigo Twitter",Várias vezes ao dia,1,1
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,"X, antigo Twitter",Todos os dias ou quase todos os dias,1,1
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,"X, antigo Twitter",Pelo menos uma vez por semana,1,1
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,"X, antigo Twitter",Pelo menos uma vez no mês,3,3
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,"X, antigo Twitter",Nunca ou quase nunca,91,91
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,"X, antigo Twitter",Não sabe,2,2
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,"X, antigo Twitter",Não respondeu,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,"X, antigo Twitter",Não se aplica,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,TikTok,Várias vezes ao dia,43,43
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,TikTok,Todos os dias ou quase todos os dias,10,10
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,TikTok,Pelo menos uma vez por semana,8,8
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,TikTok,Pelo menos uma vez no mês,3,3
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,TikTok,Nunca ou quase nunca,35,35
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,TikTok,Não sabe,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,TikTok,Não respondeu,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,TikTok,Não se aplica,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,WhatsApp,Várias vezes ao dia,60,60
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,WhatsApp,Todos os dias ou quase todos os dias,16,16
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,WhatsApp,Pelo menos uma vez por semana,5,5
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,WhatsApp,Pelo menos uma vez no mês,2,2
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,WhatsApp,Nunca ou quase nunca,18,18
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,WhatsApp,Não sabe,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,WhatsApp,Não respondeu,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,WhatsApp,Não se aplica,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,YouTube,Várias vezes ao dia,45,45
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,YouTube,Todos os dias ou quase todos os dias,19,19
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,YouTube,Pelo menos uma vez por semana,16,16
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,YouTube,Pelo menos uma vez no mês,4,4
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,YouTube,Nunca ou quase nunca,16,16
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,YouTube,Não sabe,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,YouTube,Não respondeu,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,YouTube,Não se aplica,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,Discord,Várias vezes ao dia,3,3
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,Discord,Todos os dias ou quase todos os dias,2,2
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,Discord,Pelo menos uma vez por semana,2,2
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,Discord,Pelo menos uma vez no mês,1,1
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,Discord,Nunca ou quase nunca,87,87
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,Discord,Não sabe,5,5
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,Discord,Não respondeu,1,1
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Até Fundamental I,Discord,Não se aplica,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,Facebook,Várias vezes ao dia,8,8
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,Facebook,Todos os dias ou quase todos os dias,13,13
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,Facebook,Pelo menos uma vez por semana,6,6
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,Facebook,Pelo menos uma vez no mês,4,4
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,Facebook,Nunca ou quase nunca,68,68
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,Facebook,Não sabe,1,1
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,Facebook,Não respondeu,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,Facebook,Não se aplica,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,Instagram,Várias vezes ao dia,42,42
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,Instagram,Todos os dias ou quase todos os dias,22,22
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,Instagram,Pelo menos uma vez por semana,3,3
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,Instagram,Pelo menos uma vez no mês,1,1
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,Instagram,Nunca ou quase nunca,31,31
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,Instagram,Não sabe,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,Instagram,Não respondeu,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,Instagram,Não se aplica,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,"X, antigo Twitter",Várias vezes ao dia,1,1
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,"X, antigo Twitter",Todos os dias ou quase todos os dias,2,2
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,"X, antigo Twitter",Pelo menos uma vez por semana,2,2
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,"X, antigo Twitter",Pelo menos uma vez no mês,2,2
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,"X, antigo Twitter",Nunca ou quase nunca,91,91
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,"X, antigo Twitter",Não sabe,1,1
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,"X, antigo Twitter",Não respondeu,1,1
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,"X, antigo Twitter",Não se aplica,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,TikTok,Várias vezes ao dia,34,34
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,TikTok,Todos os dias ou quase todos os dias,16,16
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,TikTok,Pelo menos uma vez por semana,8,8
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,TikTok,Pelo menos uma vez no mês,9,9
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,TikTok,Nunca ou quase nunca,31,31
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,TikTok,Não sabe,2,2
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,TikTok,Não respondeu,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,TikTok,Não se aplica,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,WhatsApp,Várias vezes ao dia,47,47
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,WhatsApp,Todos os dias ou quase todos os dias,25,25
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,WhatsApp,Pelo menos uma vez por semana,7,7
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,WhatsApp,Pelo menos uma vez no mês,3,3
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,WhatsApp,Nunca ou quase nunca,18,18
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,WhatsApp,Não sabe,1,1
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,WhatsApp,Não respondeu,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,WhatsApp,Não se aplica,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,YouTube,Várias vezes ao dia,42,42
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,YouTube,Todos os dias ou quase todos os dias,25,25
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,YouTube,Pelo menos uma vez por semana,8,8
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,YouTube,Pelo menos uma vez no mês,3,3
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,YouTube,Nunca ou quase nunca,20,20
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,YouTube,Não sabe,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,YouTube,Não respondeu,2,2
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,YouTube,Não se aplica,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,Discord,Várias vezes ao dia,1,1
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,Discord,Todos os dias ou quase todos os dias,2,2
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,Discord,Pelo menos uma vez por semana,3,3
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,Discord,Pelo menos uma vez no mês,2,2
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,Discord,Nunca ou quase nunca,83,83
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,Discord,Não sabe,6,6
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,Discord,Não respondeu,3,3
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Fundamental II,Discord,Não se aplica,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,Facebook,Várias vezes ao dia,5,5
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,Facebook,Todos os dias ou quase todos os dias,5,5
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,Facebook,Pelo menos uma vez por semana,9,9
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,Facebook,Pelo menos uma vez no mês,8,8
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,Facebook,Nunca ou quase nunca,71,71
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,Facebook,Não sabe,1,1
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,Facebook,Não respondeu,1,1
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,Facebook,Não se aplica,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,Instagram,Várias vezes ao dia,42,42
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,Instagram,Todos os dias ou quase todos os dias,12,12
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,Instagram,Pelo menos uma vez por semana,8,8
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,Instagram,Pelo menos uma vez no mês,3,3
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,Instagram,Nunca ou quase nunca,34,34
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,Instagram,Não sabe,1,1
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,Instagram,Não respondeu,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,Instagram,Não se aplica,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,"X, antigo Twitter",Várias vezes ao dia,5,5
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,"X, antigo Twitter",Todos os dias ou quase todos os dias,2,2
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,"X, antigo Twitter",Pelo menos uma vez por semana,10,10
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,"X, antigo Twitter",Pelo menos uma vez no mês,2,2
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,"X, antigo Twitter",Nunca ou quase nunca,79,79
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,"X, antigo Twitter",Não sabe,2,2
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,"X, antigo Twitter",Não respondeu,1,1
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,"X, antigo Twitter",Não se aplica,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,TikTok,Várias vezes ao dia,36,36
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,TikTok,Todos os dias ou quase todos os dias,13,13
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,TikTok,Pelo menos uma vez por semana,11,11
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,TikTok,Pelo menos uma vez no mês,3,3
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,TikTok,Nunca ou quase nunca,36,36
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,TikTok,Não sabe,1,1
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,TikTok,Não respondeu,1,1
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,TikTok,Não se aplica,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,WhatsApp,Várias vezes ao dia,53,53
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,WhatsApp,Todos os dias ou quase todos os dias,15,15
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,WhatsApp,Pelo menos uma vez por semana,7,7
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,WhatsApp,Pelo menos uma vez no mês,3,3
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,WhatsApp,Nunca ou quase nunca,22,22
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,WhatsApp,Não sabe,1,1
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,WhatsApp,Não respondeu,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,WhatsApp,Não se aplica,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,YouTube,Várias vezes ao dia,43,43
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,YouTube,Todos os dias ou quase todos os dias,23,23
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,YouTube,Pelo menos uma vez por semana,15,15
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,YouTube,Pelo menos uma vez no mês,4,4
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,YouTube,Nunca ou quase nunca,15,15
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,YouTube,Não sabe,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,YouTube,Não respondeu,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,YouTube,Não se aplica,0,0
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,Discord,Várias vezes ao dia,8,8
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,Discord,Todos os dias ou quase todos os dias,2,2
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,Discord,Pelo menos uma vez por semana,2,2
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,Discord,Pelo menos uma vez no mês,3,3
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,Discord,Nunca ou quase nunca,77,77
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,Discord,Não sabe,6,6
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,Discord,Não respondeu,2,2
+C7,ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS,Médio ou mais,Discord,Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,Facebook,Várias vezes ao dia,1,1
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,Facebook,Todos os dias ou quase todos os dias,8,8
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,Facebook,Pelo menos uma vez por semana,3,3
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,Facebook,Pelo menos uma vez no mês,2,2
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,Facebook,Nunca ou quase nunca,84,84
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,Facebook,Não sabe,2,2
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,Facebook,Não respondeu,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,Facebook,Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,Instagram,Várias vezes ao dia,11,11
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,Instagram,Todos os dias ou quase todos os dias,13,13
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,Instagram,Pelo menos uma vez por semana,5,5
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,Instagram,Pelo menos uma vez no mês,3,3
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,Instagram,Nunca ou quase nunca,66,66
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,Instagram,Não sabe,2,2
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,Instagram,Não respondeu,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,Instagram,Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,"X, antigo Twitter",Várias vezes ao dia,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,"X, antigo Twitter",Todos os dias ou quase todos os dias,1,1
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,"X, antigo Twitter",Pelo menos uma vez por semana,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,"X, antigo Twitter",Pelo menos uma vez no mês,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,"X, antigo Twitter",Nunca ou quase nunca,96,96
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,"X, antigo Twitter",Não sabe,3,3
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,"X, antigo Twitter",Não respondeu,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,"X, antigo Twitter",Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,TikTok,Várias vezes ao dia,16,16
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,TikTok,Todos os dias ou quase todos os dias,19,19
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,TikTok,Pelo menos uma vez por semana,7,7
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,TikTok,Pelo menos uma vez no mês,11,11
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,TikTok,Nunca ou quase nunca,46,46
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,TikTok,Não sabe,1,1
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,TikTok,Não respondeu,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,TikTok,Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,WhatsApp,Várias vezes ao dia,22,22
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,WhatsApp,Todos os dias ou quase todos os dias,30,30
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,WhatsApp,Pelo menos uma vez por semana,8,8
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,WhatsApp,Pelo menos uma vez no mês,3,3
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,WhatsApp,Nunca ou quase nunca,36,36
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,WhatsApp,Não sabe,1,1
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,WhatsApp,Não respondeu,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,WhatsApp,Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,YouTube,Várias vezes ao dia,45,45
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,YouTube,Todos os dias ou quase todos os dias,25,25
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,YouTube,Pelo menos uma vez por semana,7,7
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,YouTube,Pelo menos uma vez no mês,3,3
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,YouTube,Nunca ou quase nunca,19,19
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,YouTube,Não sabe,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,YouTube,Não respondeu,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,YouTube,Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,Discord,Várias vezes ao dia,1,1
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,Discord,Todos os dias ou quase todos os dias,1,1
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,Discord,Pelo menos uma vez por semana,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,Discord,Pelo menos uma vez no mês,1,1
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,Discord,Nunca ou quase nunca,88,88
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,Discord,Não sabe,9,9
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,Discord,Não respondeu,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 9 a 10 anos,Discord,Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,Facebook,Várias vezes ao dia,7,7
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,Facebook,Todos os dias ou quase todos os dias,7,7
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,Facebook,Pelo menos uma vez por semana,3,3
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,Facebook,Pelo menos uma vez no mês,3,3
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,Facebook,Nunca ou quase nunca,79,79
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,Facebook,Não sabe,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,Facebook,Não respondeu,1,1
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,Facebook,Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,Instagram,Várias vezes ao dia,34,34
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,Instagram,Todos os dias ou quase todos os dias,8,8
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,Instagram,Pelo menos uma vez por semana,8,8
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,Instagram,Pelo menos uma vez no mês,2,2
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,Instagram,Nunca ou quase nunca,47,47
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,Instagram,Não sabe,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,Instagram,Não respondeu,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,Instagram,Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,"X, antigo Twitter",Várias vezes ao dia,2,2
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,"X, antigo Twitter",Todos os dias ou quase todos os dias,1,1
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,"X, antigo Twitter",Pelo menos uma vez por semana,4,4
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,"X, antigo Twitter",Pelo menos uma vez no mês,1,1
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,"X, antigo Twitter",Nunca ou quase nunca,90,90
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,"X, antigo Twitter",Não sabe,2,2
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,"X, antigo Twitter",Não respondeu,2,2
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,"X, antigo Twitter",Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,TikTok,Várias vezes ao dia,35,35
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,TikTok,Todos os dias ou quase todos os dias,6,6
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,TikTok,Pelo menos uma vez por semana,13,13
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,TikTok,Pelo menos uma vez no mês,5,5
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,TikTok,Nunca ou quase nunca,41,41
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,TikTok,Não sabe,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,TikTok,Não respondeu,1,1
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,TikTok,Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,WhatsApp,Várias vezes ao dia,39,39
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,WhatsApp,Todos os dias ou quase todos os dias,13,13
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,WhatsApp,Pelo menos uma vez por semana,8,8
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,WhatsApp,Pelo menos uma vez no mês,6,6
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,WhatsApp,Nunca ou quase nunca,34,34
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,WhatsApp,Não sabe,1,1
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,WhatsApp,Não respondeu,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,WhatsApp,Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,YouTube,Várias vezes ao dia,45,45
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,YouTube,Todos os dias ou quase todos os dias,26,26
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,YouTube,Pelo menos uma vez por semana,12,12
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,YouTube,Pelo menos uma vez no mês,4,4
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,YouTube,Nunca ou quase nunca,13,13
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,YouTube,Não sabe,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,YouTube,Não respondeu,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,YouTube,Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,Discord,Várias vezes ao dia,4,4
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,Discord,Todos os dias ou quase todos os dias,1,1
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,Discord,Pelo menos uma vez por semana,1,1
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,Discord,Pelo menos uma vez no mês,1,1
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,Discord,Nunca ou quase nunca,83,83
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,Discord,Não sabe,6,6
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,Discord,Não respondeu,2,2
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 11 a 12 anos,Discord,Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,Facebook,Várias vezes ao dia,4,4
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,Facebook,Todos os dias ou quase todos os dias,5,5
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,Facebook,Pelo menos uma vez por semana,12,12
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,Facebook,Pelo menos uma vez no mês,9,9
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,Facebook,Nunca ou quase nunca,68,68
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,Facebook,Não sabe,1,1
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,Facebook,Não respondeu,1,1
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,Facebook,Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,Instagram,Várias vezes ao dia,58,58
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,Instagram,Todos os dias ou quase todos os dias,20,20
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,Instagram,Pelo menos uma vez por semana,5,5
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,Instagram,Pelo menos uma vez no mês,3,3
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,Instagram,Nunca ou quase nunca,14,14
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,Instagram,Não sabe,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,Instagram,Não respondeu,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,Instagram,Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,"X, antigo Twitter",Várias vezes ao dia,2,2
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,"X, antigo Twitter",Todos os dias ou quase todos os dias,1,1
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,"X, antigo Twitter",Pelo menos uma vez por semana,13,13
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,"X, antigo Twitter",Pelo menos uma vez no mês,2,2
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,"X, antigo Twitter",Nunca ou quase nunca,80,80
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,"X, antigo Twitter",Não sabe,2,2
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,"X, antigo Twitter",Não respondeu,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,"X, antigo Twitter",Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,TikTok,Várias vezes ao dia,44,44
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,TikTok,Todos os dias ou quase todos os dias,15,15
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,TikTok,Pelo menos uma vez por semana,6,6
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,TikTok,Pelo menos uma vez no mês,1,1
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,TikTok,Nunca ou quase nunca,32,32
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,TikTok,Não sabe,3,3
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,TikTok,Não respondeu,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,TikTok,Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,WhatsApp,Várias vezes ao dia,57,57
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,WhatsApp,Todos os dias ou quase todos os dias,16,16
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,WhatsApp,Pelo menos uma vez por semana,7,7
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,WhatsApp,Pelo menos uma vez no mês,2,2
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,WhatsApp,Nunca ou quase nunca,18,18
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,WhatsApp,Não sabe,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,WhatsApp,Não respondeu,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,WhatsApp,Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,YouTube,Várias vezes ao dia,47,47
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,YouTube,Todos os dias ou quase todos os dias,19,19
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,YouTube,Pelo menos uma vez por semana,12,12
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,YouTube,Pelo menos uma vez no mês,4,4
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,YouTube,Nunca ou quase nunca,15,15
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,YouTube,Não sabe,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,YouTube,Não respondeu,2,2
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,YouTube,Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,Discord,Várias vezes ao dia,12,12
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,Discord,Todos os dias ou quase todos os dias,2,2
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,Discord,Pelo menos uma vez por semana,5,5
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,Discord,Pelo menos uma vez no mês,1,1
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,Discord,Nunca ou quase nunca,73,73
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,Discord,Não sabe,4,4
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,Discord,Não respondeu,2,2
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 13 a 14 anos,Discord,Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,Facebook,Várias vezes ao dia,20,20
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,Facebook,Todos os dias ou quase todos os dias,8,8
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,Facebook,Pelo menos uma vez por semana,12,12
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,Facebook,Pelo menos uma vez no mês,8,8
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,Facebook,Nunca ou quase nunca,52,52
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,Facebook,Não sabe,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,Facebook,Não respondeu,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,Facebook,Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,Instagram,Várias vezes ao dia,63,63
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,Instagram,Todos os dias ou quase todos os dias,19,19
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,Instagram,Pelo menos uma vez por semana,8,8
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,Instagram,Pelo menos uma vez no mês,1,1
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,Instagram,Nunca ou quase nunca,9,9
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,Instagram,Não sabe,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,Instagram,Não respondeu,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,Instagram,Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,"X, antigo Twitter",Várias vezes ao dia,6,6
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,"X, antigo Twitter",Todos os dias ou quase todos os dias,3,3
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,"X, antigo Twitter",Pelo menos uma vez por semana,7,7
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,"X, antigo Twitter",Pelo menos uma vez no mês,5,5
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,"X, antigo Twitter",Nunca ou quase nunca,77,77
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,"X, antigo Twitter",Não sabe,2,2
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,"X, antigo Twitter",Não respondeu,1,1
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,"X, antigo Twitter",Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,TikTok,Várias vezes ao dia,47,47
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,TikTok,Todos os dias ou quase todos os dias,12,12
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,TikTok,Pelo menos uma vez por semana,12,12
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,TikTok,Pelo menos uma vez no mês,2,2
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,TikTok,Nunca ou quase nunca,25,25
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,TikTok,Não sabe,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,TikTok,Não respondeu,1,1
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,TikTok,Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,WhatsApp,Várias vezes ao dia,78,78
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,WhatsApp,Todos os dias ou quase todos os dias,13,13
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,WhatsApp,Pelo menos uma vez por semana,4,4
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,WhatsApp,Pelo menos uma vez no mês,1,1
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,WhatsApp,Nunca ou quase nunca,4,4
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,WhatsApp,Não sabe,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,WhatsApp,Não respondeu,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,WhatsApp,Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,YouTube,Várias vezes ao dia,38,38
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,YouTube,Todos os dias ou quase todos os dias,22,22
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,YouTube,Pelo menos uma vez por semana,19,19
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,YouTube,Pelo menos uma vez no mês,4,4
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,YouTube,Nunca ou quase nunca,17,17
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,YouTube,Não sabe,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,YouTube,Não respondeu,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,YouTube,Não se aplica,0,0
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,Discord,Várias vezes ao dia,4,4
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,Discord,Todos os dias ou quase todos os dias,3,3
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,Discord,Pelo menos uma vez por semana,3,3
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,Discord,Pelo menos uma vez no mês,4,4
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,Discord,Nunca ou quase nunca,79,79
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,Discord,Não sabe,4,4
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,Discord,Não respondeu,2,2
+C7,FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE,De 15 a 17 anos,Discord,Não se aplica,0,0
+C7,RENDA FAMILIAR,Até 1 SM,Facebook,Várias vezes ao dia,17,17
+C7,RENDA FAMILIAR,Até 1 SM,Facebook,Todos os dias ou quase todos os dias,6,6
+C7,RENDA FAMILIAR,Até 1 SM,Facebook,Pelo menos uma vez por semana,6,6
+C7,RENDA FAMILIAR,Até 1 SM,Facebook,Pelo menos uma vez no mês,8,8
+C7,RENDA FAMILIAR,Até 1 SM,Facebook,Nunca ou quase nunca,62,62
+C7,RENDA FAMILIAR,Até 1 SM,Facebook,Não sabe,0,0
+C7,RENDA FAMILIAR,Até 1 SM,Facebook,Não respondeu,0,0
+C7,RENDA FAMILIAR,Até 1 SM,Facebook,Não se aplica,0,0
+C7,RENDA FAMILIAR,Até 1 SM,Instagram,Várias vezes ao dia,48,48
+C7,RENDA FAMILIAR,Até 1 SM,Instagram,Todos os dias ou quase todos os dias,17,17
+C7,RENDA FAMILIAR,Até 1 SM,Instagram,Pelo menos uma vez por semana,7,7
+C7,RENDA FAMILIAR,Até 1 SM,Instagram,Pelo menos uma vez no mês,2,2
+C7,RENDA FAMILIAR,Até 1 SM,Instagram,Nunca ou quase nunca,25,25
+C7,RENDA FAMILIAR,Até 1 SM,Instagram,Não sabe,0,0
+C7,RENDA FAMILIAR,Até 1 SM,Instagram,Não respondeu,0,0
+C7,RENDA FAMILIAR,Até 1 SM,Instagram,Não se aplica,0,0
+C7,RENDA FAMILIAR,Até 1 SM,"X, antigo Twitter",Várias vezes ao dia,2,2
+C7,RENDA FAMILIAR,Até 1 SM,"X, antigo Twitter",Todos os dias ou quase todos os dias,2,2
+C7,RENDA FAMILIAR,Até 1 SM,"X, antigo Twitter",Pelo menos uma vez por semana,2,2
+C7,RENDA FAMILIAR,Até 1 SM,"X, antigo Twitter",Pelo menos uma vez no mês,2,2
+C7,RENDA FAMILIAR,Até 1 SM,"X, antigo Twitter",Nunca ou quase nunca,90,90
+C7,RENDA FAMILIAR,Até 1 SM,"X, antigo Twitter",Não sabe,1,1
+C7,RENDA FAMILIAR,Até 1 SM,"X, antigo Twitter",Não respondeu,1,1
+C7,RENDA FAMILIAR,Até 1 SM,"X, antigo Twitter",Não se aplica,0,0
+C7,RENDA FAMILIAR,Até 1 SM,TikTok,Várias vezes ao dia,39,39
+C7,RENDA FAMILIAR,Até 1 SM,TikTok,Todos os dias ou quase todos os dias,12,12
+C7,RENDA FAMILIAR,Até 1 SM,TikTok,Pelo menos uma vez por semana,11,11
+C7,RENDA FAMILIAR,Até 1 SM,TikTok,Pelo menos uma vez no mês,2,2
+C7,RENDA FAMILIAR,Até 1 SM,TikTok,Nunca ou quase nunca,35,35
+C7,RENDA FAMILIAR,Até 1 SM,TikTok,Não sabe,1,1
+C7,RENDA FAMILIAR,Até 1 SM,TikTok,Não respondeu,0,0
+C7,RENDA FAMILIAR,Até 1 SM,TikTok,Não se aplica,0,0
+C7,RENDA FAMILIAR,Até 1 SM,WhatsApp,Várias vezes ao dia,58,58
+C7,RENDA FAMILIAR,Até 1 SM,WhatsApp,Todos os dias ou quase todos os dias,15,15
+C7,RENDA FAMILIAR,Até 1 SM,WhatsApp,Pelo menos uma vez por semana,6,6
+C7,RENDA FAMILIAR,Até 1 SM,WhatsApp,Pelo menos uma vez no mês,1,1
+C7,RENDA FAMILIAR,Até 1 SM,WhatsApp,Nunca ou quase nunca,20,20
+C7,RENDA FAMILIAR,Até 1 SM,WhatsApp,Não sabe,0,0
+C7,RENDA FAMILIAR,Até 1 SM,WhatsApp,Não respondeu,0,0
+C7,RENDA FAMILIAR,Até 1 SM,WhatsApp,Não se aplica,0,0
+C7,RENDA FAMILIAR,Até 1 SM,YouTube,Várias vezes ao dia,44,44
+C7,RENDA FAMILIAR,Até 1 SM,YouTube,Todos os dias ou quase todos os dias,23,23
+C7,RENDA FAMILIAR,Até 1 SM,YouTube,Pelo menos uma vez por semana,11,11
+C7,RENDA FAMILIAR,Até 1 SM,YouTube,Pelo menos uma vez no mês,2,2
+C7,RENDA FAMILIAR,Até 1 SM,YouTube,Nunca ou quase nunca,20,20
+C7,RENDA FAMILIAR,Até 1 SM,YouTube,Não sabe,0,0
+C7,RENDA FAMILIAR,Até 1 SM,YouTube,Não respondeu,1,1
+C7,RENDA FAMILIAR,Até 1 SM,YouTube,Não se aplica,0,0
+C7,RENDA FAMILIAR,Até 1 SM,Discord,Várias vezes ao dia,3,3
+C7,RENDA FAMILIAR,Até 1 SM,Discord,Todos os dias ou quase todos os dias,1,1
+C7,RENDA FAMILIAR,Até 1 SM,Discord,Pelo menos uma vez por semana,1,1
+C7,RENDA FAMILIAR,Até 1 SM,Discord,Pelo menos uma vez no mês,1,1
+C7,RENDA FAMILIAR,Até 1 SM,Discord,Nunca ou quase nunca,87,87
+C7,RENDA FAMILIAR,Até 1 SM,Discord,Não sabe,3,3
+C7,RENDA FAMILIAR,Até 1 SM,Discord,Não respondeu,3,3
+C7,RENDA FAMILIAR,Até 1 SM,Discord,Não se aplica,0,0
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,Facebook,Várias vezes ao dia,7,7
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,Facebook,Todos os dias ou quase todos os dias,10,10
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,Facebook,Pelo menos uma vez por semana,7,7
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,Facebook,Pelo menos uma vez no mês,6,6
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,Facebook,Nunca ou quase nunca,69,69
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,Facebook,Não sabe,1,1
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,Facebook,Não respondeu,0,0
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,Facebook,Não se aplica,0,0
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,Instagram,Várias vezes ao dia,41,41
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,Instagram,Todos os dias ou quase todos os dias,16,16
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,Instagram,Pelo menos uma vez por semana,6,6
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,Instagram,Pelo menos uma vez no mês,1,1
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,Instagram,Nunca ou quase nunca,33,33
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,Instagram,Não sabe,1,1
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,Instagram,Não respondeu,0,0
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,Instagram,Não se aplica,0,0
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,"X, antigo Twitter",Várias vezes ao dia,2,2
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,"X, antigo Twitter",Todos os dias ou quase todos os dias,2,2
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,"X, antigo Twitter",Pelo menos uma vez por semana,4,4
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,"X, antigo Twitter",Pelo menos uma vez no mês,1,1
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,"X, antigo Twitter",Nunca ou quase nunca,88,88
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,"X, antigo Twitter",Não sabe,2,2
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,"X, antigo Twitter",Não respondeu,0,0
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,"X, antigo Twitter",Não se aplica,0,0
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,TikTok,Várias vezes ao dia,33,33
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,TikTok,Todos os dias ou quase todos os dias,15,15
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,TikTok,Pelo menos uma vez por semana,9,9
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,TikTok,Pelo menos uma vez no mês,11,11
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,TikTok,Nunca ou quase nunca,31,31
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,TikTok,Não sabe,1,1
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,TikTok,Não respondeu,0,0
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,TikTok,Não se aplica,0,0
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,WhatsApp,Várias vezes ao dia,48,48
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,WhatsApp,Todos os dias ou quase todos os dias,22,22
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,WhatsApp,Pelo menos uma vez por semana,8,8
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,WhatsApp,Pelo menos uma vez no mês,5,5
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,WhatsApp,Nunca ou quase nunca,17,17
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,WhatsApp,Não sabe,1,1
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,WhatsApp,Não respondeu,0,0
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,WhatsApp,Não se aplica,0,0
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,YouTube,Várias vezes ao dia,46,46
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,YouTube,Todos os dias ou quase todos os dias,23,23
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,YouTube,Pelo menos uma vez por semana,15,15
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,YouTube,Pelo menos uma vez no mês,4,4
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,YouTube,Nunca ou quase nunca,12,12
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,YouTube,Não sabe,0,0
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,YouTube,Não respondeu,0,0
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,YouTube,Não se aplica,0,0
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,Discord,Várias vezes ao dia,4,4
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,Discord,Todos os dias ou quase todos os dias,2,2
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,Discord,Pelo menos uma vez por semana,4,4
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,Discord,Pelo menos uma vez no mês,3,3
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,Discord,Nunca ou quase nunca,81,81
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,Discord,Não sabe,6,6
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,Discord,Não respondeu,1,1
+C7,RENDA FAMILIAR,Mais de 1 SM até 2 SM,Discord,Não se aplica,0,0
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,Facebook,Várias vezes ao dia,5,5
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,Facebook,Todos os dias ou quase todos os dias,5,5
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,Facebook,Pelo menos uma vez por semana,14,14
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,Facebook,Pelo menos uma vez no mês,3,3
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,Facebook,Nunca ou quase nunca,71,71
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,Facebook,Não sabe,1,1
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,Facebook,Não respondeu,2,2
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,Facebook,Não se aplica,0,0
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,Instagram,Várias vezes ao dia,41,41
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,Instagram,Todos os dias ou quase todos os dias,13,13
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,Instagram,Pelo menos uma vez por semana,6,6
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,Instagram,Pelo menos uma vez no mês,5,5
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,Instagram,Nunca ou quase nunca,35,35
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,Instagram,Não sabe,0,0
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,Instagram,Não respondeu,0,0
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,Instagram,Não se aplica,0,0
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,"X, antigo Twitter",Várias vezes ao dia,2,2
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,"X, antigo Twitter",Todos os dias ou quase todos os dias,1,1
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,"X, antigo Twitter",Pelo menos uma vez por semana,15,15
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,"X, antigo Twitter",Pelo menos uma vez no mês,3,3
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,"X, antigo Twitter",Nunca ou quase nunca,75,75
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,"X, antigo Twitter",Não sabe,4,4
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,"X, antigo Twitter",Não respondeu,1,1
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,"X, antigo Twitter",Não se aplica,0,0
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,TikTok,Várias vezes ao dia,37,37
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,TikTok,Todos os dias ou quase todos os dias,12,12
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,TikTok,Pelo menos uma vez por semana,6,6
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,TikTok,Pelo menos uma vez no mês,2,2
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,TikTok,Nunca ou quase nunca,41,41
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,TikTok,Não sabe,1,1
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,TikTok,Não respondeu,0,0
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,TikTok,Não se aplica,0,0
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,WhatsApp,Várias vezes ao dia,47,47
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,WhatsApp,Todos os dias ou quase todos os dias,15,15
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,WhatsApp,Pelo menos uma vez por semana,6,6
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,WhatsApp,Pelo menos uma vez no mês,2,2
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,WhatsApp,Nunca ou quase nunca,29,29
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,WhatsApp,Não sabe,0,0
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,WhatsApp,Não respondeu,0,0
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,WhatsApp,Não se aplica,0,0
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,YouTube,Várias vezes ao dia,37,37
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,YouTube,Todos os dias ou quase todos os dias,28,28
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,YouTube,Pelo menos uma vez por semana,15,15
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,YouTube,Pelo menos uma vez no mês,7,7
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,YouTube,Nunca ou quase nunca,13,13
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,YouTube,Não sabe,0,0
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,YouTube,Não respondeu,0,0
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,YouTube,Não se aplica,0,0
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,Discord,Várias vezes ao dia,13,13
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,Discord,Todos os dias ou quase todos os dias,1,1
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,Discord,Pelo menos uma vez por semana,1,1
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,Discord,Pelo menos uma vez no mês,2,2
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,Discord,Nunca ou quase nunca,71,71
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,Discord,Não sabe,11,11
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,Discord,Não respondeu,1,1
+C7,RENDA FAMILIAR,Mais de 2 SM até 3 SM,Discord,Não se aplica,0,0
+C7,RENDA FAMILIAR,Mais de 3 SM,Facebook,Várias vezes ao dia,4,4
+C7,RENDA FAMILIAR,Mais de 3 SM,Facebook,Todos os dias ou quase todos os dias,7,7
+C7,RENDA FAMILIAR,Mais de 3 SM,Facebook,Pelo menos uma vez por semana,7,7
+C7,RENDA FAMILIAR,Mais de 3 SM,Facebook,Pelo menos uma vez no mês,5,5
+C7,RENDA FAMILIAR,Mais de 3 SM,Facebook,Nunca ou quase nunca,76,76
+C7,RENDA FAMILIAR,Mais de 3 SM,Facebook,Não sabe,1,1
+C7,RENDA FAMILIAR,Mais de 3 SM,Facebook,Não respondeu,0,0
+C7,RENDA FAMILIAR,Mais de 3 SM,Facebook,Não se aplica,0,0
+C7,RENDA FAMILIAR,Mais de 3 SM,Instagram,Várias vezes ao dia,43,43
+C7,RENDA FAMILIAR,Mais de 3 SM,Instagram,Todos os dias ou quase todos os dias,14,14
+C7,RENDA FAMILIAR,Mais de 3 SM,Instagram,Pelo menos uma vez por semana,8,8
+C7,RENDA FAMILIAR,Mais de 3 SM,Instagram,Pelo menos uma vez no mês,2,2
+C7,RENDA FAMILIAR,Mais de 3 SM,Instagram,Nunca ou quase nunca,33,33
+C7,RENDA FAMILIAR,Mais de 3 SM,Instagram,Não sabe,0,0
+C7,RENDA FAMILIAR,Mais de 3 SM,Instagram,Não respondeu,0,0
+C7,RENDA FAMILIAR,Mais de 3 SM,Instagram,Não se aplica,0,0
+C7,RENDA FAMILIAR,Mais de 3 SM,"X, antigo Twitter",Várias vezes ao dia,11,11
+C7,RENDA FAMILIAR,Mais de 3 SM,"X, antigo Twitter",Todos os dias ou quase todos os dias,2,2
+C7,RENDA FAMILIAR,Mais de 3 SM,"X, antigo Twitter",Pelo menos uma vez por semana,11,11
+C7,RENDA FAMILIAR,Mais de 3 SM,"X, antigo Twitter",Pelo menos uma vez no mês,5,5
+C7,RENDA FAMILIAR,Mais de 3 SM,"X, antigo Twitter",Nunca ou quase nunca,67,67
+C7,RENDA FAMILIAR,Mais de 3 SM,"X, antigo Twitter",Não sabe,2,2
+C7,RENDA FAMILIAR,Mais de 3 SM,"X, antigo Twitter",Não respondeu,1,1
+C7,RENDA FAMILIAR,Mais de 3 SM,"X, antigo Twitter",Não se aplica,0,0
+C7,RENDA FAMILIAR,Mais de 3 SM,TikTok,Várias vezes ao dia,47,47
+C7,RENDA FAMILIAR,Mais de 3 SM,TikTok,Todos os dias ou quase todos os dias,10,10
+C7,RENDA FAMILIAR,Mais de 3 SM,TikTok,Pelo menos uma vez por semana,9,9
+C7,RENDA FAMILIAR,Mais de 3 SM,TikTok,Pelo menos uma vez no mês,2,2
+C7,RENDA FAMILIAR,Mais de 3 SM,TikTok,Nunca ou quase nunca,32,32
+C7,RENDA FAMILIAR,Mais de 3 SM,TikTok,Não sabe,0,0
+C7,RENDA FAMILIAR,Mais de 3 SM,TikTok,Não respondeu,1,1
+C7,RENDA FAMILIAR,Mais de 3 SM,TikTok,Não se aplica,0,0
+C7,RENDA FAMILIAR,Mais de 3 SM,WhatsApp,Várias vezes ao dia,62,62
+C7,RENDA FAMILIAR,Mais de 3 SM,WhatsApp,Todos os dias ou quase todos os dias,17,17
+C7,RENDA FAMILIAR,Mais de 3 SM,WhatsApp,Pelo menos uma vez por semana,6,6
+C7,RENDA FAMILIAR,Mais de 3 SM,WhatsApp,Pelo menos uma vez no mês,3,3
+C7,RENDA FAMILIAR,Mais de 3 SM,WhatsApp,Nunca ou quase nunca,12,12
+C7,RENDA FAMILIAR,Mais de 3 SM,WhatsApp,Não sabe,0,0
+C7,RENDA FAMILIAR,Mais de 3 SM,WhatsApp,Não respondeu,0,0
+C7,RENDA FAMILIAR,Mais de 3 SM,WhatsApp,Não se aplica,0,0
+C7,RENDA FAMILIAR,Mais de 3 SM,YouTube,Várias vezes ao dia,50,50
+C7,RENDA FAMILIAR,Mais de 3 SM,YouTube,Todos os dias ou quase todos os dias,18,18
+C7,RENDA FAMILIAR,Mais de 3 SM,YouTube,Pelo menos uma vez por semana,16,16
+C7,RENDA FAMILIAR,Mais de 3 SM,YouTube,Pelo menos uma vez no mês,3,3
+C7,RENDA FAMILIAR,Mais de 3 SM,YouTube,Nunca ou quase nunca,14,14
+C7,RENDA FAMILIAR,Mais de 3 SM,YouTube,Não sabe,0,0
+C7,RENDA FAMILIAR,Mais de 3 SM,YouTube,Não respondeu,0,0
+C7,RENDA FAMILIAR,Mais de 3 SM,YouTube,Não se aplica,0,0
+C7,RENDA FAMILIAR,Mais de 3 SM,Discord,Várias vezes ao dia,5,5
+C7,RENDA FAMILIAR,Mais de 3 SM,Discord,Todos os dias ou quase todos os dias,6,6
+C7,RENDA FAMILIAR,Mais de 3 SM,Discord,Pelo menos uma vez por semana,5,5
+C7,RENDA FAMILIAR,Mais de 3 SM,Discord,Pelo menos uma vez no mês,6,6
+C7,RENDA FAMILIAR,Mais de 3 SM,Discord,Nunca ou quase nunca,72,72
+C7,RENDA FAMILIAR,Mais de 3 SM,Discord,Não sabe,5,5
+C7,RENDA FAMILIAR,Mais de 3 SM,Discord,Não respondeu,1,1
+C7,RENDA FAMILIAR,Mais de 3 SM,Discord,Não se aplica,0,0
+C7,RENDA FAMILIAR,Não tem renda,Facebook,Várias vezes ao dia,2,2
+C7,RENDA FAMILIAR,Não tem renda,Facebook,Todos os dias ou quase todos os dias,9,9
+C7,RENDA FAMILIAR,Não tem renda,Facebook,Pelo menos uma vez por semana,1,1
+C7,RENDA FAMILIAR,Não tem renda,Facebook,Pelo menos uma vez no mês,4,4
+C7,RENDA FAMILIAR,Não tem renda,Facebook,Nunca ou quase nunca,83,83
+C7,RENDA FAMILIAR,Não tem renda,Facebook,Não sabe,0,0
+C7,RENDA FAMILIAR,Não tem renda,Facebook,Não respondeu,2,2
+C7,RENDA FAMILIAR,Não tem renda,Facebook,Não se aplica,0,0
+C7,RENDA FAMILIAR,Não tem renda,Instagram,Várias vezes ao dia,42,42
+C7,RENDA FAMILIAR,Não tem renda,Instagram,Todos os dias ou quase todos os dias,38,38
+C7,RENDA FAMILIAR,Não tem renda,Instagram,Pelo menos uma vez por semana,1,1
+C7,RENDA FAMILIAR,Não tem renda,Instagram,Pelo menos uma vez no mês,0,0
+C7,RENDA FAMILIAR,Não tem renda,Instagram,Nunca ou quase nunca,19,19
+C7,RENDA FAMILIAR,Não tem renda,Instagram,Não sabe,0,0
+C7,RENDA FAMILIAR,Não tem renda,Instagram,Não respondeu,0,0
+C7,RENDA FAMILIAR,Não tem renda,Instagram,Não se aplica,0,0
+C7,RENDA FAMILIAR,Não tem renda,"X, antigo Twitter",Várias vezes ao dia,0,0
+C7,RENDA FAMILIAR,Não tem renda,"X, antigo Twitter",Todos os dias ou quase todos os dias,4,4
+C7,RENDA FAMILIAR,Não tem renda,"X, antigo Twitter",Pelo menos uma vez por semana,0,0
+C7,RENDA FAMILIAR,Não tem renda,"X, antigo Twitter",Pelo menos uma vez no mês,15,15
+C7,RENDA FAMILIAR,Não tem renda,"X, antigo Twitter",Nunca ou quase nunca,62,62
+C7,RENDA FAMILIAR,Não tem renda,"X, antigo Twitter",Não sabe,16,16
+C7,RENDA FAMILIAR,Não tem renda,"X, antigo Twitter",Não respondeu,2,2
+C7,RENDA FAMILIAR,Não tem renda,"X, antigo Twitter",Não se aplica,0,0
+C7,RENDA FAMILIAR,Não tem renda,TikTok,Várias vezes ao dia,22,22
+C7,RENDA FAMILIAR,Não tem renda,TikTok,Todos os dias ou quase todos os dias,15,15
+C7,RENDA FAMILIAR,Não tem renda,TikTok,Pelo menos uma vez por semana,34,34
+C7,RENDA FAMILIAR,Não tem renda,TikTok,Pelo menos uma vez no mês,1,1
+C7,RENDA FAMILIAR,Não tem renda,TikTok,Nunca ou quase nunca,26,26
+C7,RENDA FAMILIAR,Não tem renda,TikTok,Não sabe,0,0
+C7,RENDA FAMILIAR,Não tem renda,TikTok,Não respondeu,2,2
+C7,RENDA FAMILIAR,Não tem renda,TikTok,Não se aplica,0,0
+C7,RENDA FAMILIAR,Não tem renda,WhatsApp,Várias vezes ao dia,50,50
+C7,RENDA FAMILIAR,Não tem renda,WhatsApp,Todos os dias ou quase todos os dias,22,22
+C7,RENDA FAMILIAR,Não tem renda,WhatsApp,Pelo menos uma vez por semana,17,17
+C7,RENDA FAMILIAR,Não tem renda,WhatsApp,Pelo menos uma vez no mês,7,7
+C7,RENDA FAMILIAR,Não tem renda,WhatsApp,Nunca ou quase nunca,4,4
+C7,RENDA FAMILIAR,Não tem renda,WhatsApp,Não sabe,0,0
+C7,RENDA FAMILIAR,Não tem renda,WhatsApp,Não respondeu,0,0
+C7,RENDA FAMILIAR,Não tem renda,WhatsApp,Não se aplica,0,0
+C7,RENDA FAMILIAR,Não tem renda,YouTube,Várias vezes ao dia,38,38
+C7,RENDA FAMILIAR,Não tem renda,YouTube,Todos os dias ou quase todos os dias,21,21
+C7,RENDA FAMILIAR,Não tem renda,YouTube,Pelo menos uma vez por semana,8,8
+C7,RENDA FAMILIAR,Não tem renda,YouTube,Pelo menos uma vez no mês,18,18
+C7,RENDA FAMILIAR,Não tem renda,YouTube,Nunca ou quase nunca,6,6
+C7,RENDA FAMILIAR,Não tem renda,YouTube,Não sabe,0,0
+C7,RENDA FAMILIAR,Não tem renda,YouTube,Não respondeu,8,8
+C7,RENDA FAMILIAR,Não tem renda,YouTube,Não se aplica,0,0
+C7,RENDA FAMILIAR,Não tem renda,Discord,Várias vezes ao dia,5,5
+C7,RENDA FAMILIAR,Não tem renda,Discord,Todos os dias ou quase todos os dias,0,0
+C7,RENDA FAMILIAR,Não tem renda,Discord,Pelo menos uma vez por semana,0,0
+C7,RENDA FAMILIAR,Não tem renda,Discord,Pelo menos uma vez no mês,1,1
+C7,RENDA FAMILIAR,Não tem renda,Discord,Nunca ou quase nunca,73,73
+C7,RENDA FAMILIAR,Não tem renda,Discord,Não sabe,12,12
+C7,RENDA FAMILIAR,Não tem renda,Discord,Não respondeu,10,10
+C7,RENDA FAMILIAR,Não tem renda,Discord,Não se aplica,0,0
+C7,RENDA FAMILIAR,Não sabe,Facebook,Várias vezes ao dia,3,3
+C7,RENDA FAMILIAR,Não sabe,Facebook,Todos os dias ou quase todos os dias,1,1
+C7,RENDA FAMILIAR,Não sabe,Facebook,Pelo menos uma vez por semana,16,16
+C7,RENDA FAMILIAR,Não sabe,Facebook,Pelo menos uma vez no mês,5,5
+C7,RENDA FAMILIAR,Não sabe,Facebook,Nunca ou quase nunca,75,75
+C7,RENDA FAMILIAR,Não sabe,Facebook,Não sabe,1,1
+C7,RENDA FAMILIAR,Não sabe,Facebook,Não respondeu,0,0
+C7,RENDA FAMILIAR,Não sabe,Facebook,Não se aplica,0,0
+C7,RENDA FAMILIAR,Não sabe,Instagram,Várias vezes ao dia,48,48
+C7,RENDA FAMILIAR,Não sabe,Instagram,Todos os dias ou quase todos os dias,12,12
+C7,RENDA FAMILIAR,Não sabe,Instagram,Pelo menos uma vez por semana,9,9
+C7,RENDA FAMILIAR,Não sabe,Instagram,Pelo menos uma vez no mês,0,0
+C7,RENDA FAMILIAR,Não sabe,Instagram,Nunca ou quase nunca,31,31
+C7,RENDA FAMILIAR,Não sabe,Instagram,Não sabe,0,0
+C7,RENDA FAMILIAR,Não sabe,Instagram,Não respondeu,0,0
+C7,RENDA FAMILIAR,Não sabe,Instagram,Não se aplica,0,0
+C7,RENDA FAMILIAR,Não sabe,"X, antigo Twitter",Várias vezes ao dia,2,2
+C7,RENDA FAMILIAR,Não sabe,"X, antigo Twitter",Todos os dias ou quase todos os dias,0,0
+C7,RENDA FAMILIAR,Não sabe,"X, antigo Twitter",Pelo menos uma vez por semana,3,3
+C7,RENDA FAMILIAR,Não sabe,"X, antigo Twitter",Pelo menos uma vez no mês,0,0
+C7,RENDA FAMILIAR,Não sabe,"X, antigo Twitter",Nunca ou quase nunca,93,93
+C7,RENDA FAMILIAR,Não sabe,"X, antigo Twitter",Não sabe,2,2
+C7,RENDA FAMILIAR,Não sabe,"X, antigo Twitter",Não respondeu,0,0
+C7,RENDA FAMILIAR,Não sabe,"X, antigo Twitter",Não se aplica,0,0
+C7,RENDA FAMILIAR,Não sabe,TikTok,Várias vezes ao dia,31,31
+C7,RENDA FAMILIAR,Não sabe,TikTok,Todos os dias ou quase todos os dias,18,18
+C7,RENDA FAMILIAR,Não sabe,TikTok,Pelo menos uma vez por semana,4,4
+C7,RENDA FAMILIAR,Não sabe,TikTok,Pelo menos uma vez no mês,0,0
+C7,RENDA FAMILIAR,Não sabe,TikTok,Nunca ou quase nunca,44,44
+C7,RENDA FAMILIAR,Não sabe,TikTok,Não sabe,3,3
+C7,RENDA FAMILIAR,Não sabe,TikTok,Não respondeu,0,0
+C7,RENDA FAMILIAR,Não sabe,TikTok,Não se aplica,0,0
+C7,RENDA FAMILIAR,Não sabe,WhatsApp,Várias vezes ao dia,58,58
+C7,RENDA FAMILIAR,Não sabe,WhatsApp,Todos os dias ou quase todos os dias,20,20
+C7,RENDA FAMILIAR,Não sabe,WhatsApp,Pelo menos uma vez por semana,10,10
+C7,RENDA FAMILIAR,Não sabe,WhatsApp,Pelo menos uma vez no mês,2,2
+C7,RENDA FAMILIAR,Não sabe,WhatsApp,Nunca ou quase nunca,10,10
+C7,RENDA FAMILIAR,Não sabe,WhatsApp,Não sabe,0,0
+C7,RENDA FAMILIAR,Não sabe,WhatsApp,Não respondeu,0,0
+C7,RENDA FAMILIAR,Não sabe,WhatsApp,Não se aplica,0,0
+C7,RENDA FAMILIAR,Não sabe,YouTube,Várias vezes ao dia,19,19
+C7,RENDA FAMILIAR,Não sabe,YouTube,Todos os dias ou quase todos os dias,29,29
+C7,RENDA FAMILIAR,Não sabe,YouTube,Pelo menos uma vez por semana,24,24
+C7,RENDA FAMILIAR,Não sabe,YouTube,Pelo menos uma vez no mês,7,7
+C7,RENDA FAMILIAR,Não sabe,YouTube,Nunca ou quase nunca,22,22
+C7,RENDA FAMILIAR,Não sabe,YouTube,Não sabe,0,0
+C7,RENDA FAMILIAR,Não sabe,YouTube,Não respondeu,0,0
+C7,RENDA FAMILIAR,Não sabe,YouTube,Não se aplica,0,0
+C7,RENDA FAMILIAR,Não sabe,Discord,Várias vezes ao dia,3,3
+C7,RENDA FAMILIAR,Não sabe,Discord,Todos os dias ou quase todos os dias,1,1
+C7,RENDA FAMILIAR,Não sabe,Discord,Pelo menos uma vez por semana,5,5
+C7,RENDA FAMILIAR,Não sabe,Discord,Pelo menos uma vez no mês,1,1
+C7,RENDA FAMILIAR,Não sabe,Discord,Nunca ou quase nunca,87,87
+C7,RENDA FAMILIAR,Não sabe,Discord,Não sabe,3,3
+C7,RENDA FAMILIAR,Não sabe,Discord,Não respondeu,0,0
+C7,RENDA FAMILIAR,Não sabe,Discord,Não se aplica,0,0
+C7,RENDA FAMILIAR,Não respondeu,Facebook,Várias vezes ao dia,3,3
+C7,RENDA FAMILIAR,Não respondeu,Facebook,Todos os dias ou quase todos os dias,0,0
+C7,RENDA FAMILIAR,Não respondeu,Facebook,Pelo menos uma vez por semana,2,2
+C7,RENDA FAMILIAR,Não respondeu,Facebook,Pelo menos uma vez no mês,6,6
+C7,RENDA FAMILIAR,Não respondeu,Facebook,Nunca ou quase nunca,88,88
+C7,RENDA FAMILIAR,Não respondeu,Facebook,Não sabe,0,0
+C7,RENDA FAMILIAR,Não respondeu,Facebook,Não respondeu,0,0
+C7,RENDA FAMILIAR,Não respondeu,Facebook,Não se aplica,0,0
+C7,RENDA FAMILIAR,Não respondeu,Instagram,Várias vezes ao dia,71,71
+C7,RENDA FAMILIAR,Não respondeu,Instagram,Todos os dias ou quase todos os dias,8,8
+C7,RENDA FAMILIAR,Não respondeu,Instagram,Pelo menos uma vez por semana,7,7
+C7,RENDA FAMILIAR,Não respondeu,Instagram,Pelo menos uma vez no mês,0,0
+C7,RENDA FAMILIAR,Não respondeu,Instagram,Nunca ou quase nunca,14,14
+C7,RENDA FAMILIAR,Não respondeu,Instagram,Não sabe,0,0
+C7,RENDA FAMILIAR,Não respondeu,Instagram,Não respondeu,0,0
+C7,RENDA FAMILIAR,Não respondeu,Instagram,Não se aplica,0,0
+C7,RENDA FAMILIAR,Não respondeu,"X, antigo Twitter",Várias vezes ao dia,6,6
+C7,RENDA FAMILIAR,Não respondeu,"X, antigo Twitter",Todos os dias ou quase todos os dias,0,0
+C7,RENDA FAMILIAR,Não respondeu,"X, antigo Twitter",Pelo menos uma vez por semana,4,4
+C7,RENDA FAMILIAR,Não respondeu,"X, antigo Twitter",Pelo menos uma vez no mês,1,1
+C7,RENDA FAMILIAR,Não respondeu,"X, antigo Twitter",Nunca ou quase nunca,89,89
+C7,RENDA FAMILIAR,Não respondeu,"X, antigo Twitter",Não sabe,1,1
+C7,RENDA FAMILIAR,Não respondeu,"X, antigo Twitter",Não respondeu,0,0
+C7,RENDA FAMILIAR,Não respondeu,"X, antigo Twitter",Não se aplica,0,0
+C7,RENDA FAMILIAR,Não respondeu,TikTok,Várias vezes ao dia,17,17
+C7,RENDA FAMILIAR,Não respondeu,TikTok,Todos os dias ou quase todos os dias,13,13
+C7,RENDA FAMILIAR,Não respondeu,TikTok,Pelo menos uma vez por semana,56,56
+C7,RENDA FAMILIAR,Não respondeu,TikTok,Pelo menos uma vez no mês,1,1
+C7,RENDA FAMILIAR,Não respondeu,TikTok,Nunca ou quase nunca,13,13
+C7,RENDA FAMILIAR,Não respondeu,TikTok,Não sabe,0,0
+C7,RENDA FAMILIAR,Não respondeu,TikTok,Não respondeu,0,0
+C7,RENDA FAMILIAR,Não respondeu,TikTok,Não se aplica,0,0
+C7,RENDA FAMILIAR,Não respondeu,WhatsApp,Várias vezes ao dia,37,37
+C7,RENDA FAMILIAR,Não respondeu,WhatsApp,Todos os dias ou quase todos os dias,13,13
+C7,RENDA FAMILIAR,Não respondeu,WhatsApp,Pelo menos uma vez por semana,1,1
+C7,RENDA FAMILIAR,Não respondeu,WhatsApp,Pelo menos uma vez no mês,0,0
+C7,RENDA FAMILIAR,Não respondeu,WhatsApp,Nunca ou quase nunca,50,50
+C7,RENDA FAMILIAR,Não respondeu,WhatsApp,Não sabe,0,0
+C7,RENDA FAMILIAR,Não respondeu,WhatsApp,Não respondeu,0,0
+C7,RENDA FAMILIAR,Não respondeu,WhatsApp,Não se aplica,0,0
+C7,RENDA FAMILIAR,Não respondeu,YouTube,Várias vezes ao dia,25,25
+C7,RENDA FAMILIAR,Não respondeu,YouTube,Todos os dias ou quase todos os dias,4,4
+C7,RENDA FAMILIAR,Não respondeu,YouTube,Pelo menos uma vez por semana,18,18
+C7,RENDA FAMILIAR,Não respondeu,YouTube,Pelo menos uma vez no mês,1,1
+C7,RENDA FAMILIAR,Não respondeu,YouTube,Nunca ou quase nunca,52,52
+C7,RENDA FAMILIAR,Não respondeu,YouTube,Não sabe,0,0
+C7,RENDA FAMILIAR,Não respondeu,YouTube,Não respondeu,0,0
+C7,RENDA FAMILIAR,Não respondeu,YouTube,Não se aplica,0,0
+C7,RENDA FAMILIAR,Não respondeu,Discord,Várias vezes ao dia,1,1
+C7,RENDA FAMILIAR,Não respondeu,Discord,Todos os dias ou quase todos os dias,1,1
+C7,RENDA FAMILIAR,Não respondeu,Discord,Pelo menos uma vez por semana,0,0
+C7,RENDA FAMILIAR,Não respondeu,Discord,Pelo menos uma vez no mês,2,2
+C7,RENDA FAMILIAR,Não respondeu,Discord,Nunca ou quase nunca,92,92
+C7,RENDA FAMILIAR,Não respondeu,Discord,Não sabe,4,4
+C7,RENDA FAMILIAR,Não respondeu,Discord,Não respondeu,0,0
+C7,RENDA FAMILIAR,Não respondeu,Discord,Não se aplica,0,0
+C7,CLASSE SOCIAL,AB,Facebook,Várias vezes ao dia,1,1
+C7,CLASSE SOCIAL,AB,Facebook,Todos os dias ou quase todos os dias,6,6
+C7,CLASSE SOCIAL,AB,Facebook,Pelo menos uma vez por semana,19,19
+C7,CLASSE SOCIAL,AB,Facebook,Pelo menos uma vez no mês,3,3
+C7,CLASSE SOCIAL,AB,Facebook,Nunca ou quase nunca,69,69
+C7,CLASSE SOCIAL,AB,Facebook,Não sabe,1,1
+C7,CLASSE SOCIAL,AB,Facebook,Não respondeu,1,1
+C7,CLASSE SOCIAL,AB,Facebook,Não se aplica,0,0
+C7,CLASSE SOCIAL,AB,Instagram,Várias vezes ao dia,40,40
+C7,CLASSE SOCIAL,AB,Instagram,Todos os dias ou quase todos os dias,13,13
+C7,CLASSE SOCIAL,AB,Instagram,Pelo menos uma vez por semana,5,5
+C7,CLASSE SOCIAL,AB,Instagram,Pelo menos uma vez no mês,1,1
+C7,CLASSE SOCIAL,AB,Instagram,Nunca ou quase nunca,41,41
+C7,CLASSE SOCIAL,AB,Instagram,Não sabe,0,0
+C7,CLASSE SOCIAL,AB,Instagram,Não respondeu,1,1
+C7,CLASSE SOCIAL,AB,Instagram,Não se aplica,0,0
+C7,CLASSE SOCIAL,AB,"X, antigo Twitter",Várias vezes ao dia,7,7
+C7,CLASSE SOCIAL,AB,"X, antigo Twitter",Todos os dias ou quase todos os dias,3,3
+C7,CLASSE SOCIAL,AB,"X, antigo Twitter",Pelo menos uma vez por semana,18,18
+C7,CLASSE SOCIAL,AB,"X, antigo Twitter",Pelo menos uma vez no mês,4,4
+C7,CLASSE SOCIAL,AB,"X, antigo Twitter",Nunca ou quase nunca,66,66
+C7,CLASSE SOCIAL,AB,"X, antigo Twitter",Não sabe,1,1
+C7,CLASSE SOCIAL,AB,"X, antigo Twitter",Não respondeu,1,1
+C7,CLASSE SOCIAL,AB,"X, antigo Twitter",Não se aplica,0,0
+C7,CLASSE SOCIAL,AB,TikTok,Várias vezes ao dia,41,41
+C7,CLASSE SOCIAL,AB,TikTok,Todos os dias ou quase todos os dias,9,9
+C7,CLASSE SOCIAL,AB,TikTok,Pelo menos uma vez por semana,3,3
+C7,CLASSE SOCIAL,AB,TikTok,Pelo menos uma vez no mês,1,1
+C7,CLASSE SOCIAL,AB,TikTok,Nunca ou quase nunca,44,44
+C7,CLASSE SOCIAL,AB,TikTok,Não sabe,1,1
+C7,CLASSE SOCIAL,AB,TikTok,Não respondeu,1,1
+C7,CLASSE SOCIAL,AB,TikTok,Não se aplica,0,0
+C7,CLASSE SOCIAL,AB,WhatsApp,Várias vezes ao dia,55,55
+C7,CLASSE SOCIAL,AB,WhatsApp,Todos os dias ou quase todos os dias,10,10
+C7,CLASSE SOCIAL,AB,WhatsApp,Pelo menos uma vez por semana,4,4
+C7,CLASSE SOCIAL,AB,WhatsApp,Pelo menos uma vez no mês,1,1
+C7,CLASSE SOCIAL,AB,WhatsApp,Nunca ou quase nunca,30,30
+C7,CLASSE SOCIAL,AB,WhatsApp,Não sabe,0,0
+C7,CLASSE SOCIAL,AB,WhatsApp,Não respondeu,0,0
+C7,CLASSE SOCIAL,AB,WhatsApp,Não se aplica,0,0
+C7,CLASSE SOCIAL,AB,YouTube,Várias vezes ao dia,41,41
+C7,CLASSE SOCIAL,AB,YouTube,Todos os dias ou quase todos os dias,31,31
+C7,CLASSE SOCIAL,AB,YouTube,Pelo menos uma vez por semana,11,11
+C7,CLASSE SOCIAL,AB,YouTube,Pelo menos uma vez no mês,4,4
+C7,CLASSE SOCIAL,AB,YouTube,Nunca ou quase nunca,13,13
+C7,CLASSE SOCIAL,AB,YouTube,Não sabe,0,0
+C7,CLASSE SOCIAL,AB,YouTube,Não respondeu,0,0
+C7,CLASSE SOCIAL,AB,YouTube,Não se aplica,0,0
+C7,CLASSE SOCIAL,AB,Discord,Várias vezes ao dia,17,17
+C7,CLASSE SOCIAL,AB,Discord,Todos os dias ou quase todos os dias,4,4
+C7,CLASSE SOCIAL,AB,Discord,Pelo menos uma vez por semana,2,2
+C7,CLASSE SOCIAL,AB,Discord,Pelo menos uma vez no mês,5,5
+C7,CLASSE SOCIAL,AB,Discord,Nunca ou quase nunca,68,68
+C7,CLASSE SOCIAL,AB,Discord,Não sabe,4,4
+C7,CLASSE SOCIAL,AB,Discord,Não respondeu,1,1
+C7,CLASSE SOCIAL,AB,Discord,Não se aplica,0,0
+C7,CLASSE SOCIAL,C,Facebook,Várias vezes ao dia,8,8
+C7,CLASSE SOCIAL,C,Facebook,Todos os dias ou quase todos os dias,7,7
+C7,CLASSE SOCIAL,C,Facebook,Pelo menos uma vez por semana,5,5
+C7,CLASSE SOCIAL,C,Facebook,Pelo menos uma vez no mês,7,7
+C7,CLASSE SOCIAL,C,Facebook,Nunca ou quase nunca,72,72
+C7,CLASSE SOCIAL,C,Facebook,Não sabe,1,1
+C7,CLASSE SOCIAL,C,Facebook,Não respondeu,1,1
+C7,CLASSE SOCIAL,C,Facebook,Não se aplica,0,0
+C7,CLASSE SOCIAL,C,Instagram,Várias vezes ao dia,48,48
+C7,CLASSE SOCIAL,C,Instagram,Todos os dias ou quase todos os dias,14,14
+C7,CLASSE SOCIAL,C,Instagram,Pelo menos uma vez por semana,6,6
+C7,CLASSE SOCIAL,C,Instagram,Pelo menos uma vez no mês,2,2
+C7,CLASSE SOCIAL,C,Instagram,Nunca ou quase nunca,29,29
+C7,CLASSE SOCIAL,C,Instagram,Não sabe,1,1
+C7,CLASSE SOCIAL,C,Instagram,Não respondeu,0,0
+C7,CLASSE SOCIAL,C,Instagram,Não se aplica,0,0
+C7,CLASSE SOCIAL,C,"X, antigo Twitter",Várias vezes ao dia,3,3
+C7,CLASSE SOCIAL,C,"X, antigo Twitter",Todos os dias ou quase todos os dias,2,2
+C7,CLASSE SOCIAL,C,"X, antigo Twitter",Pelo menos uma vez por semana,5,5
+C7,CLASSE SOCIAL,C,"X, antigo Twitter",Pelo menos uma vez no mês,3,3
+C7,CLASSE SOCIAL,C,"X, antigo Twitter",Nunca ou quase nunca,84,84
+C7,CLASSE SOCIAL,C,"X, antigo Twitter",Não sabe,3,3
+C7,CLASSE SOCIAL,C,"X, antigo Twitter",Não respondeu,0,0
+C7,CLASSE SOCIAL,C,"X, antigo Twitter",Não se aplica,0,0
+C7,CLASSE SOCIAL,C,TikTok,Várias vezes ao dia,38,38
+C7,CLASSE SOCIAL,C,TikTok,Todos os dias ou quase todos os dias,13,13
+C7,CLASSE SOCIAL,C,TikTok,Pelo menos uma vez por semana,11,11
+C7,CLASSE SOCIAL,C,TikTok,Pelo menos uma vez no mês,2,2
+C7,CLASSE SOCIAL,C,TikTok,Nunca ou quase nunca,34,34
+C7,CLASSE SOCIAL,C,TikTok,Não sabe,2,2
+C7,CLASSE SOCIAL,C,TikTok,Não respondeu,0,0
+C7,CLASSE SOCIAL,C,TikTok,Não se aplica,0,0
+C7,CLASSE SOCIAL,C,WhatsApp,Várias vezes ao dia,58,58
+C7,CLASSE SOCIAL,C,WhatsApp,Todos os dias ou quase todos os dias,14,14
+C7,CLASSE SOCIAL,C,WhatsApp,Pelo menos uma vez por semana,6,6
+C7,CLASSE SOCIAL,C,WhatsApp,Pelo menos uma vez no mês,4,4
+C7,CLASSE SOCIAL,C,WhatsApp,Nunca ou quase nunca,18,18
+C7,CLASSE SOCIAL,C,WhatsApp,Não sabe,1,1
+C7,CLASSE SOCIAL,C,WhatsApp,Não respondeu,0,0
+C7,CLASSE SOCIAL,C,WhatsApp,Não se aplica,0,0
+C7,CLASSE SOCIAL,C,YouTube,Várias vezes ao dia,41,41
+C7,CLASSE SOCIAL,C,YouTube,Todos os dias ou quase todos os dias,20,20
+C7,CLASSE SOCIAL,C,YouTube,Pelo menos uma vez por semana,19,19
+C7,CLASSE SOCIAL,C,YouTube,Pelo menos uma vez no mês,4,4
+C7,CLASSE SOCIAL,C,YouTube,Nunca ou quase nunca,15,15
+C7,CLASSE SOCIAL,C,YouTube,Não sabe,0,0
+C7,CLASSE SOCIAL,C,YouTube,Não respondeu,1,1
+C7,CLASSE SOCIAL,C,YouTube,Não se aplica,0,0
+C7,CLASSE SOCIAL,C,Discord,Várias vezes ao dia,4,4
+C7,CLASSE SOCIAL,C,Discord,Todos os dias ou quase todos os dias,1,1
+C7,CLASSE SOCIAL,C,Discord,Pelo menos uma vez por semana,4,4
+C7,CLASSE SOCIAL,C,Discord,Pelo menos uma vez no mês,2,2
+C7,CLASSE SOCIAL,C,Discord,Nunca ou quase nunca,79,79
+C7,CLASSE SOCIAL,C,Discord,Não sabe,7,7
+C7,CLASSE SOCIAL,C,Discord,Não respondeu,2,2
+C7,CLASSE SOCIAL,C,Discord,Não se aplica,0,0
+C7,CLASSE SOCIAL,DE,Facebook,Várias vezes ao dia,15,15
+C7,CLASSE SOCIAL,DE,Facebook,Todos os dias ou quase todos os dias,8,8
+C7,CLASSE SOCIAL,DE,Facebook,Pelo menos uma vez por semana,8,8
+C7,CLASSE SOCIAL,DE,Facebook,Pelo menos uma vez no mês,6,6
+C7,CLASSE SOCIAL,DE,Facebook,Nunca ou quase nunca,63,63
+C7,CLASSE SOCIAL,DE,Facebook,Não sabe,0,0
+C7,CLASSE SOCIAL,DE,Facebook,Não respondeu,0,0
+C7,CLASSE SOCIAL,DE,Facebook,Não se aplica,0,0
+C7,CLASSE SOCIAL,DE,Instagram,Várias vezes ao dia,43,43
+C7,CLASSE SOCIAL,DE,Instagram,Todos os dias ou quase todos os dias,18,18
+C7,CLASSE SOCIAL,DE,Instagram,Pelo menos uma vez por semana,8,8
+C7,CLASSE SOCIAL,DE,Instagram,Pelo menos uma vez no mês,3,3
+C7,CLASSE SOCIAL,DE,Instagram,Nunca ou quase nunca,28,28
+C7,CLASSE SOCIAL,DE,Instagram,Não sabe,0,0
+C7,CLASSE SOCIAL,DE,Instagram,Não respondeu,0,0
+C7,CLASSE SOCIAL,DE,Instagram,Não se aplica,0,0
+C7,CLASSE SOCIAL,DE,"X, antigo Twitter",Várias vezes ao dia,2,2
+C7,CLASSE SOCIAL,DE,"X, antigo Twitter",Todos os dias ou quase todos os dias,1,1
+C7,CLASSE SOCIAL,DE,"X, antigo Twitter",Pelo menos uma vez por semana,3,3
+C7,CLASSE SOCIAL,DE,"X, antigo Twitter",Pelo menos uma vez no mês,1,1
+C7,CLASSE SOCIAL,DE,"X, antigo Twitter",Nunca ou quase nunca,91,91
+C7,CLASSE SOCIAL,DE,"X, antigo Twitter",Não sabe,1,1
+C7,CLASSE SOCIAL,DE,"X, antigo Twitter",Não respondeu,1,1
+C7,CLASSE SOCIAL,DE,"X, antigo Twitter",Não se aplica,0,0
+C7,CLASSE SOCIAL,DE,TikTok,Várias vezes ao dia,35,35
+C7,CLASSE SOCIAL,DE,TikTok,Todos os dias ou quase todos os dias,14,14
+C7,CLASSE SOCIAL,DE,TikTok,Pelo menos uma vez por semana,10,10
+C7,CLASSE SOCIAL,DE,TikTok,Pelo menos uma vez no mês,8,8
+C7,CLASSE SOCIAL,DE,TikTok,Nunca ou quase nunca,32,32
+C7,CLASSE SOCIAL,DE,TikTok,Não sabe,0,0
+C7,CLASSE SOCIAL,DE,TikTok,Não respondeu,0,0
+C7,CLASSE SOCIAL,DE,TikTok,Não se aplica,0,0
+C7,CLASSE SOCIAL,DE,WhatsApp,Várias vezes ao dia,46,46
+C7,CLASSE SOCIAL,DE,WhatsApp,Todos os dias ou quase todos os dias,24,24
+C7,CLASSE SOCIAL,DE,WhatsApp,Pelo menos uma vez por semana,8,8
+C7,CLASSE SOCIAL,DE,WhatsApp,Pelo menos uma vez no mês,2,2
+C7,CLASSE SOCIAL,DE,WhatsApp,Nunca ou quase nunca,20,20
+C7,CLASSE SOCIAL,DE,WhatsApp,Não sabe,0,0
+C7,CLASSE SOCIAL,DE,WhatsApp,Não respondeu,0,0
+C7,CLASSE SOCIAL,DE,WhatsApp,Não se aplica,0,0
+C7,CLASSE SOCIAL,DE,YouTube,Várias vezes ao dia,46,46
+C7,CLASSE SOCIAL,DE,YouTube,Todos os dias ou quase todos os dias,23,23
+C7,CLASSE SOCIAL,DE,YouTube,Pelo menos uma vez por semana,9,9
+C7,CLASSE SOCIAL,DE,YouTube,Pelo menos uma vez no mês,4,4
+C7,CLASSE SOCIAL,DE,YouTube,Nunca ou quase nunca,18,18
+C7,CLASSE SOCIAL,DE,YouTube,Não sabe,0,0
+C7,CLASSE SOCIAL,DE,YouTube,Não respondeu,0,0
+C7,CLASSE SOCIAL,DE,YouTube,Não se aplica,0,0
+C7,CLASSE SOCIAL,DE,Discord,Várias vezes ao dia,2,2
+C7,CLASSE SOCIAL,DE,Discord,Todos os dias ou quase todos os dias,2,2
+C7,CLASSE SOCIAL,DE,Discord,Pelo menos uma vez por semana,2,2
+C7,CLASSE SOCIAL,DE,Discord,Pelo menos uma vez no mês,1,1
+C7,CLASSE SOCIAL,DE,Discord,Nunca ou quase nunca,87,87
+C7,CLASSE SOCIAL,DE,Discord,Não sabe,5,5
+C7,CLASSE SOCIAL,DE,Discord,Não respondeu,1,1
+C7,CLASSE SOCIAL,DE,Discord,Não se aplica,0,0
+C7,COR OU RAÇA,Branca,Facebook,Várias vezes ao dia,15,15
+C7,COR OU RAÇA,Branca,Facebook,Todos os dias ou quase todos os dias,5,5
+C7,COR OU RAÇA,Branca,Facebook,Pelo menos uma vez por semana,11,11
+C7,COR OU RAÇA,Branca,Facebook,Pelo menos uma vez no mês,4,4
+C7,COR OU RAÇA,Branca,Facebook,Nunca ou quase nunca,64,64
+C7,COR OU RAÇA,Branca,Facebook,Não sabe,1,1
+C7,COR OU RAÇA,Branca,Facebook,Não respondeu,0,0
+C7,COR OU RAÇA,Branca,Facebook,Não se aplica,0,0
+C7,COR OU RAÇA,Branca,Instagram,Várias vezes ao dia,46,46
+C7,COR OU RAÇA,Branca,Instagram,Todos os dias ou quase todos os dias,14,14
+C7,COR OU RAÇA,Branca,Instagram,Pelo menos uma vez por semana,8,8
+C7,COR OU RAÇA,Branca,Instagram,Pelo menos uma vez no mês,1,1
+C7,COR OU RAÇA,Branca,Instagram,Nunca ou quase nunca,31,31
+C7,COR OU RAÇA,Branca,Instagram,Não sabe,1,1
+C7,COR OU RAÇA,Branca,Instagram,Não respondeu,0,0
+C7,COR OU RAÇA,Branca,Instagram,Não se aplica,0,0
+C7,COR OU RAÇA,Branca,"X, antigo Twitter",Várias vezes ao dia,3,3
+C7,COR OU RAÇA,Branca,"X, antigo Twitter",Todos os dias ou quase todos os dias,2,2
+C7,COR OU RAÇA,Branca,"X, antigo Twitter",Pelo menos uma vez por semana,10,10
+C7,COR OU RAÇA,Branca,"X, antigo Twitter",Pelo menos uma vez no mês,4,4
+C7,COR OU RAÇA,Branca,"X, antigo Twitter",Nunca ou quase nunca,79,79
+C7,COR OU RAÇA,Branca,"X, antigo Twitter",Não sabe,2,2
+C7,COR OU RAÇA,Branca,"X, antigo Twitter",Não respondeu,1,1
+C7,COR OU RAÇA,Branca,"X, antigo Twitter",Não se aplica,0,0
+C7,COR OU RAÇA,Branca,TikTok,Várias vezes ao dia,43,43
+C7,COR OU RAÇA,Branca,TikTok,Todos os dias ou quase todos os dias,13,13
+C7,COR OU RAÇA,Branca,TikTok,Pelo menos uma vez por semana,6,6
+C7,COR OU RAÇA,Branca,TikTok,Pelo menos uma vez no mês,9,9
+C7,COR OU RAÇA,Branca,TikTok,Nunca ou quase nunca,28,28
+C7,COR OU RAÇA,Branca,TikTok,Não sabe,1,1
+C7,COR OU RAÇA,Branca,TikTok,Não respondeu,0,0
+C7,COR OU RAÇA,Branca,TikTok,Não se aplica,0,0
+C7,COR OU RAÇA,Branca,WhatsApp,Várias vezes ao dia,58,58
+C7,COR OU RAÇA,Branca,WhatsApp,Todos os dias ou quase todos os dias,22,22
+C7,COR OU RAÇA,Branca,WhatsApp,Pelo menos uma vez por semana,5,5
+C7,COR OU RAÇA,Branca,WhatsApp,Pelo menos uma vez no mês,3,3
+C7,COR OU RAÇA,Branca,WhatsApp,Nunca ou quase nunca,11,11
+C7,COR OU RAÇA,Branca,WhatsApp,Não sabe,0,0
+C7,COR OU RAÇA,Branca,WhatsApp,Não respondeu,0,0
+C7,COR OU RAÇA,Branca,WhatsApp,Não se aplica,0,0
+C7,COR OU RAÇA,Branca,YouTube,Várias vezes ao dia,52,52
+C7,COR OU RAÇA,Branca,YouTube,Todos os dias ou quase todos os dias,18,18
+C7,COR OU RAÇA,Branca,YouTube,Pelo menos uma vez por semana,15,15
+C7,COR OU RAÇA,Branca,YouTube,Pelo menos uma vez no mês,4,4
+C7,COR OU RAÇA,Branca,YouTube,Nunca ou quase nunca,11,11
+C7,COR OU RAÇA,Branca,YouTube,Não sabe,0,0
+C7,COR OU RAÇA,Branca,YouTube,Não respondeu,0,0
+C7,COR OU RAÇA,Branca,YouTube,Não se aplica,0,0
+C7,COR OU RAÇA,Branca,Discord,Várias vezes ao dia,10,10
+C7,COR OU RAÇA,Branca,Discord,Todos os dias ou quase todos os dias,2,2
+C7,COR OU RAÇA,Branca,Discord,Pelo menos uma vez por semana,2,2
+C7,COR OU RAÇA,Branca,Discord,Pelo menos uma vez no mês,4,4
+C7,COR OU RAÇA,Branca,Discord,Nunca ou quase nunca,76,76
+C7,COR OU RAÇA,Branca,Discord,Não sabe,6,6
+C7,COR OU RAÇA,Branca,Discord,Não respondeu,1,1
+C7,COR OU RAÇA,Branca,Discord,Não se aplica,0,0
+C7,COR OU RAÇA,Preta,Facebook,Várias vezes ao dia,9,9
+C7,COR OU RAÇA,Preta,Facebook,Todos os dias ou quase todos os dias,14,14
+C7,COR OU RAÇA,Preta,Facebook,Pelo menos uma vez por semana,5,5
+C7,COR OU RAÇA,Preta,Facebook,Pelo menos uma vez no mês,9,9
+C7,COR OU RAÇA,Preta,Facebook,Nunca ou quase nunca,62,62
+C7,COR OU RAÇA,Preta,Facebook,Não sabe,1,1
+C7,COR OU RAÇA,Preta,Facebook,Não respondeu,0,0
+C7,COR OU RAÇA,Preta,Facebook,Não se aplica,0,0
+C7,COR OU RAÇA,Preta,Instagram,Várias vezes ao dia,60,60
+C7,COR OU RAÇA,Preta,Instagram,Todos os dias ou quase todos os dias,18,18
+C7,COR OU RAÇA,Preta,Instagram,Pelo menos uma vez por semana,2,2
+C7,COR OU RAÇA,Preta,Instagram,Pelo menos uma vez no mês,2,2
+C7,COR OU RAÇA,Preta,Instagram,Nunca ou quase nunca,18,18
+C7,COR OU RAÇA,Preta,Instagram,Não sabe,1,1
+C7,COR OU RAÇA,Preta,Instagram,Não respondeu,0,0
+C7,COR OU RAÇA,Preta,Instagram,Não se aplica,0,0
+C7,COR OU RAÇA,Preta,"X, antigo Twitter",Várias vezes ao dia,7,7
+C7,COR OU RAÇA,Preta,"X, antigo Twitter",Todos os dias ou quase todos os dias,0,0
+C7,COR OU RAÇA,Preta,"X, antigo Twitter",Pelo menos uma vez por semana,2,2
+C7,COR OU RAÇA,Preta,"X, antigo Twitter",Pelo menos uma vez no mês,2,2
+C7,COR OU RAÇA,Preta,"X, antigo Twitter",Nunca ou quase nunca,86,86
+C7,COR OU RAÇA,Preta,"X, antigo Twitter",Não sabe,3,3
+C7,COR OU RAÇA,Preta,"X, antigo Twitter",Não respondeu,0,0
+C7,COR OU RAÇA,Preta,"X, antigo Twitter",Não se aplica,0,0
+C7,COR OU RAÇA,Preta,TikTok,Várias vezes ao dia,35,35
+C7,COR OU RAÇA,Preta,TikTok,Todos os dias ou quase todos os dias,12,12
+C7,COR OU RAÇA,Preta,TikTok,Pelo menos uma vez por semana,13,13
+C7,COR OU RAÇA,Preta,TikTok,Pelo menos uma vez no mês,2,2
+C7,COR OU RAÇA,Preta,TikTok,Nunca ou quase nunca,37,37
+C7,COR OU RAÇA,Preta,TikTok,Não sabe,0,0
+C7,COR OU RAÇA,Preta,TikTok,Não respondeu,0,0
+C7,COR OU RAÇA,Preta,TikTok,Não se aplica,0,0
+C7,COR OU RAÇA,Preta,WhatsApp,Várias vezes ao dia,49,49
+C7,COR OU RAÇA,Preta,WhatsApp,Todos os dias ou quase todos os dias,13,13
+C7,COR OU RAÇA,Preta,WhatsApp,Pelo menos uma vez por semana,7,7
+C7,COR OU RAÇA,Preta,WhatsApp,Pelo menos uma vez no mês,2,2
+C7,COR OU RAÇA,Preta,WhatsApp,Nunca ou quase nunca,29,29
+C7,COR OU RAÇA,Preta,WhatsApp,Não sabe,1,1
+C7,COR OU RAÇA,Preta,WhatsApp,Não respondeu,0,0
+C7,COR OU RAÇA,Preta,WhatsApp,Não se aplica,0,0
+C7,COR OU RAÇA,Preta,YouTube,Várias vezes ao dia,40,40
+C7,COR OU RAÇA,Preta,YouTube,Todos os dias ou quase todos os dias,24,24
+C7,COR OU RAÇA,Preta,YouTube,Pelo menos uma vez por semana,15,15
+C7,COR OU RAÇA,Preta,YouTube,Pelo menos uma vez no mês,2,2
+C7,COR OU RAÇA,Preta,YouTube,Nunca ou quase nunca,19,19
+C7,COR OU RAÇA,Preta,YouTube,Não sabe,0,0
+C7,COR OU RAÇA,Preta,YouTube,Não respondeu,0,0
+C7,COR OU RAÇA,Preta,YouTube,Não se aplica,0,0
+C7,COR OU RAÇA,Preta,Discord,Várias vezes ao dia,3,3
+C7,COR OU RAÇA,Preta,Discord,Todos os dias ou quase todos os dias,3,3
+C7,COR OU RAÇA,Preta,Discord,Pelo menos uma vez por semana,2,2
+C7,COR OU RAÇA,Preta,Discord,Pelo menos uma vez no mês,1,1
+C7,COR OU RAÇA,Preta,Discord,Nunca ou quase nunca,85,85
+C7,COR OU RAÇA,Preta,Discord,Não sabe,5,5
+C7,COR OU RAÇA,Preta,Discord,Não respondeu,1,1
+C7,COR OU RAÇA,Preta,Discord,Não se aplica,0,0
+C7,COR OU RAÇA,Parda,Facebook,Várias vezes ao dia,8,8
+C7,COR OU RAÇA,Parda,Facebook,Todos os dias ou quase todos os dias,7,7
+C7,COR OU RAÇA,Parda,Facebook,Pelo menos uma vez por semana,6,6
+C7,COR OU RAÇA,Parda,Facebook,Pelo menos uma vez no mês,7,7
+C7,COR OU RAÇA,Parda,Facebook,Nunca ou quase nunca,71,71
+C7,COR OU RAÇA,Parda,Facebook,Não sabe,1,1
+C7,COR OU RAÇA,Parda,Facebook,Não respondeu,1,1
+C7,COR OU RAÇA,Parda,Facebook,Não se aplica,0,0
+C7,COR OU RAÇA,Parda,Instagram,Várias vezes ao dia,43,43
+C7,COR OU RAÇA,Parda,Instagram,Todos os dias ou quase todos os dias,15,15
+C7,COR OU RAÇA,Parda,Instagram,Pelo menos uma vez por semana,7,7
+C7,COR OU RAÇA,Parda,Instagram,Pelo menos uma vez no mês,3,3
+C7,COR OU RAÇA,Parda,Instagram,Nunca ou quase nunca,32,32
+C7,COR OU RAÇA,Parda,Instagram,Não sabe,0,0
+C7,COR OU RAÇA,Parda,Instagram,Não respondeu,0,0
+C7,COR OU RAÇA,Parda,Instagram,Não se aplica,0,0
+C7,COR OU RAÇA,Parda,"X, antigo Twitter",Várias vezes ao dia,3,3
+C7,COR OU RAÇA,Parda,"X, antigo Twitter",Todos os dias ou quase todos os dias,2,2
+C7,COR OU RAÇA,Parda,"X, antigo Twitter",Pelo menos uma vez por semana,5,5
+C7,COR OU RAÇA,Parda,"X, antigo Twitter",Pelo menos uma vez no mês,2,2
+C7,COR OU RAÇA,Parda,"X, antigo Twitter",Nunca ou quase nunca,86,86
+C7,COR OU RAÇA,Parda,"X, antigo Twitter",Não sabe,2,2
+C7,COR OU RAÇA,Parda,"X, antigo Twitter",Não respondeu,1,1
+C7,COR OU RAÇA,Parda,"X, antigo Twitter",Não se aplica,0,0
+C7,COR OU RAÇA,Parda,TikTok,Várias vezes ao dia,35,35
+C7,COR OU RAÇA,Parda,TikTok,Todos os dias ou quase todos os dias,13,13
+C7,COR OU RAÇA,Parda,TikTok,Pelo menos uma vez por semana,11,11
+C7,COR OU RAÇA,Parda,TikTok,Pelo menos uma vez no mês,2,2
+C7,COR OU RAÇA,Parda,TikTok,Nunca ou quase nunca,37,37
+C7,COR OU RAÇA,Parda,TikTok,Não sabe,1,1
+C7,COR OU RAÇA,Parda,TikTok,Não respondeu,0,0
+C7,COR OU RAÇA,Parda,TikTok,Não se aplica,0,0
+C7,COR OU RAÇA,Parda,WhatsApp,Várias vezes ao dia,52,52
+C7,COR OU RAÇA,Parda,WhatsApp,Todos os dias ou quase todos os dias,15,15
+C7,COR OU RAÇA,Parda,WhatsApp,Pelo menos uma vez por semana,7,7
+C7,COR OU RAÇA,Parda,WhatsApp,Pelo menos uma vez no mês,2,2
+C7,COR OU RAÇA,Parda,WhatsApp,Nunca ou quase nunca,23,23
+C7,COR OU RAÇA,Parda,WhatsApp,Não sabe,0,0
+C7,COR OU RAÇA,Parda,WhatsApp,Não respondeu,0,0
+C7,COR OU RAÇA,Parda,WhatsApp,Não se aplica,0,0
+C7,COR OU RAÇA,Parda,YouTube,Várias vezes ao dia,39,39
+C7,COR OU RAÇA,Parda,YouTube,Todos os dias ou quase todos os dias,26,26
+C7,COR OU RAÇA,Parda,YouTube,Pelo menos uma vez por semana,13,13
+C7,COR OU RAÇA,Parda,YouTube,Pelo menos uma vez no mês,4,4
+C7,COR OU RAÇA,Parda,YouTube,Nunca ou quase nunca,17,17
+C7,COR OU RAÇA,Parda,YouTube,Não sabe,0,0
+C7,COR OU RAÇA,Parda,YouTube,Não respondeu,1,1
+C7,COR OU RAÇA,Parda,YouTube,Não se aplica,0,0
+C7,COR OU RAÇA,Parda,Discord,Várias vezes ao dia,4,4
+C7,COR OU RAÇA,Parda,Discord,Todos os dias ou quase todos os dias,1,1
+C7,COR OU RAÇA,Parda,Discord,Pelo menos uma vez por semana,3,3
+C7,COR OU RAÇA,Parda,Discord,Pelo menos uma vez no mês,1,1
+C7,COR OU RAÇA,Parda,Discord,Nunca ou quase nunca,82,82
+C7,COR OU RAÇA,Parda,Discord,Não sabe,5,5
+C7,COR OU RAÇA,Parda,Discord,Não respondeu,3,3
+C7,COR OU RAÇA,Parda,Discord,Não se aplica,0,0
+C7,COR OU RAÇA,Amarela,Facebook,Várias vezes ao dia,9,9
+C7,COR OU RAÇA,Amarela,Facebook,Todos os dias ou quase todos os dias,8,8
+C7,COR OU RAÇA,Amarela,Facebook,Pelo menos uma vez por semana,8,8
+C7,COR OU RAÇA,Amarela,Facebook,Pelo menos uma vez no mês,1,1
+C7,COR OU RAÇA,Amarela,Facebook,Nunca ou quase nunca,73,73
+C7,COR OU RAÇA,Amarela,Facebook,Não sabe,0,0
+C7,COR OU RAÇA,Amarela,Facebook,Não respondeu,0,0
+C7,COR OU RAÇA,Amarela,Facebook,Não se aplica,0,0
+C7,COR OU RAÇA,Amarela,Instagram,Várias vezes ao dia,43,43
+C7,COR OU RAÇA,Amarela,Instagram,Todos os dias ou quase todos os dias,22,22
+C7,COR OU RAÇA,Amarela,Instagram,Pelo menos uma vez por semana,7,7
+C7,COR OU RAÇA,Amarela,Instagram,Pelo menos uma vez no mês,4,4
+C7,COR OU RAÇA,Amarela,Instagram,Nunca ou quase nunca,18,18
+C7,COR OU RAÇA,Amarela,Instagram,Não sabe,6,6
+C7,COR OU RAÇA,Amarela,Instagram,Não respondeu,0,0
+C7,COR OU RAÇA,Amarela,Instagram,Não se aplica,0,0
+C7,COR OU RAÇA,Amarela,"X, antigo Twitter",Várias vezes ao dia,1,1
+C7,COR OU RAÇA,Amarela,"X, antigo Twitter",Todos os dias ou quase todos os dias,3,3
+C7,COR OU RAÇA,Amarela,"X, antigo Twitter",Pelo menos uma vez por semana,3,3
+C7,COR OU RAÇA,Amarela,"X, antigo Twitter",Pelo menos uma vez no mês,1,1
+C7,COR OU RAÇA,Amarela,"X, antigo Twitter",Nunca ou quase nunca,84,84
+C7,COR OU RAÇA,Amarela,"X, antigo Twitter",Não sabe,8,8
+C7,COR OU RAÇA,Amarela,"X, antigo Twitter",Não respondeu,0,0
+C7,COR OU RAÇA,Amarela,"X, antigo Twitter",Não se aplica,0,0
+C7,COR OU RAÇA,Amarela,TikTok,Várias vezes ao dia,56,56
+C7,COR OU RAÇA,Amarela,TikTok,Todos os dias ou quase todos os dias,8,8
+C7,COR OU RAÇA,Amarela,TikTok,Pelo menos uma vez por semana,6,6
+C7,COR OU RAÇA,Amarela,TikTok,Pelo menos uma vez no mês,1,1
+C7,COR OU RAÇA,Amarela,TikTok,Nunca ou quase nunca,29,29
+C7,COR OU RAÇA,Amarela,TikTok,Não sabe,1,1
+C7,COR OU RAÇA,Amarela,TikTok,Não respondeu,0,0
+C7,COR OU RAÇA,Amarela,TikTok,Não se aplica,0,0
+C7,COR OU RAÇA,Amarela,WhatsApp,Várias vezes ao dia,51,51
+C7,COR OU RAÇA,Amarela,WhatsApp,Todos os dias ou quase todos os dias,13,13
+C7,COR OU RAÇA,Amarela,WhatsApp,Pelo menos uma vez por semana,9,9
+C7,COR OU RAÇA,Amarela,WhatsApp,Pelo menos uma vez no mês,6,6
+C7,COR OU RAÇA,Amarela,WhatsApp,Nunca ou quase nunca,16,16
+C7,COR OU RAÇA,Amarela,WhatsApp,Não sabe,5,5
+C7,COR OU RAÇA,Amarela,WhatsApp,Não respondeu,0,0
+C7,COR OU RAÇA,Amarela,WhatsApp,Não se aplica,0,0
+C7,COR OU RAÇA,Amarela,YouTube,Várias vezes ao dia,40,40
+C7,COR OU RAÇA,Amarela,YouTube,Todos os dias ou quase todos os dias,19,19
+C7,COR OU RAÇA,Amarela,YouTube,Pelo menos uma vez por semana,25,25
+C7,COR OU RAÇA,Amarela,YouTube,Pelo menos uma vez no mês,8,8
+C7,COR OU RAÇA,Amarela,YouTube,Nunca ou quase nunca,9,9
+C7,COR OU RAÇA,Amarela,YouTube,Não sabe,0,0
+C7,COR OU RAÇA,Amarela,YouTube,Não respondeu,0,0
+C7,COR OU RAÇA,Amarela,YouTube,Não se aplica,0,0
+C7,COR OU RAÇA,Amarela,Discord,Várias vezes ao dia,0,0
+C7,COR OU RAÇA,Amarela,Discord,Todos os dias ou quase todos os dias,0,0
+C7,COR OU RAÇA,Amarela,Discord,Pelo menos uma vez por semana,4,4
+C7,COR OU RAÇA,Amarela,Discord,Pelo menos uma vez no mês,0,0
+C7,COR OU RAÇA,Amarela,Discord,Nunca ou quase nunca,77,77
+C7,COR OU RAÇA,Amarela,Discord,Não sabe,18,18
+C7,COR OU RAÇA,Amarela,Discord,Não respondeu,0,0
+C7,COR OU RAÇA,Amarela,Discord,Não se aplica,0,0
+C7,COR OU RAÇA,Indígena,Facebook,Várias vezes ao dia,2,2
+C7,COR OU RAÇA,Indígena,Facebook,Todos os dias ou quase todos os dias,1,1
+C7,COR OU RAÇA,Indígena,Facebook,Pelo menos uma vez por semana,5,5
+C7,COR OU RAÇA,Indígena,Facebook,Pelo menos uma vez no mês,7,7
+C7,COR OU RAÇA,Indígena,Facebook,Nunca ou quase nunca,83,83
+C7,COR OU RAÇA,Indígena,Facebook,Não sabe,2,2
+C7,COR OU RAÇA,Indígena,Facebook,Não respondeu,0,0
+C7,COR OU RAÇA,Indígena,Facebook,Não se aplica,0,0
+C7,COR OU RAÇA,Indígena,Instagram,Várias vezes ao dia,32,32
+C7,COR OU RAÇA,Indígena,Instagram,Todos os dias ou quase todos os dias,7,7
+C7,COR OU RAÇA,Indígena,Instagram,Pelo menos uma vez por semana,4,4
+C7,COR OU RAÇA,Indígena,Instagram,Pelo menos uma vez no mês,5,5
+C7,COR OU RAÇA,Indígena,Instagram,Nunca ou quase nunca,51,51
+C7,COR OU RAÇA,Indígena,Instagram,Não sabe,1,1
+C7,COR OU RAÇA,Indígena,Instagram,Não respondeu,0,0
+C7,COR OU RAÇA,Indígena,Instagram,Não se aplica,0,0
+C7,COR OU RAÇA,Indígena,"X, antigo Twitter",Várias vezes ao dia,0,0
+C7,COR OU RAÇA,Indígena,"X, antigo Twitter",Todos os dias ou quase todos os dias,0,0
+C7,COR OU RAÇA,Indígena,"X, antigo Twitter",Pelo menos uma vez por semana,0,0
+C7,COR OU RAÇA,Indígena,"X, antigo Twitter",Pelo menos uma vez no mês,5,5
+C7,COR OU RAÇA,Indígena,"X, antigo Twitter",Nunca ou quase nunca,93,93
+C7,COR OU RAÇA,Indígena,"X, antigo Twitter",Não sabe,2,2
+C7,COR OU RAÇA,Indígena,"X, antigo Twitter",Não respondeu,0,0
+C7,COR OU RAÇA,Indígena,"X, antigo Twitter",Não se aplica,0,0
+C7,COR OU RAÇA,Indígena,TikTok,Várias vezes ao dia,25,25
+C7,COR OU RAÇA,Indígena,TikTok,Todos os dias ou quase todos os dias,8,8
+C7,COR OU RAÇA,Indígena,TikTok,Pelo menos uma vez por semana,1,1
+C7,COR OU RAÇA,Indígena,TikTok,Pelo menos uma vez no mês,13,13
+C7,COR OU RAÇA,Indígena,TikTok,Nunca ou quase nunca,53,53
+C7,COR OU RAÇA,Indígena,TikTok,Não sabe,1,1
+C7,COR OU RAÇA,Indígena,TikTok,Não respondeu,0,0
+C7,COR OU RAÇA,Indígena,TikTok,Não se aplica,0,0
+C7,COR OU RAÇA,Indígena,WhatsApp,Várias vezes ao dia,42,42
+C7,COR OU RAÇA,Indígena,WhatsApp,Todos os dias ou quase todos os dias,20,20
+C7,COR OU RAÇA,Indígena,WhatsApp,Pelo menos uma vez por semana,5,5
+C7,COR OU RAÇA,Indígena,WhatsApp,Pelo menos uma vez no mês,1,1
+C7,COR OU RAÇA,Indígena,WhatsApp,Nunca ou quase nunca,32,32
+C7,COR OU RAÇA,Indígena,WhatsApp,Não sabe,0,0
+C7,COR OU RAÇA,Indígena,WhatsApp,Não respondeu,0,0
+C7,COR OU RAÇA,Indígena,WhatsApp,Não se aplica,0,0
+C7,COR OU RAÇA,Indígena,YouTube,Várias vezes ao dia,29,29
+C7,COR OU RAÇA,Indígena,YouTube,Todos os dias ou quase todos os dias,14,14
+C7,COR OU RAÇA,Indígena,YouTube,Pelo menos uma vez por semana,15,15
+C7,COR OU RAÇA,Indígena,YouTube,Pelo menos uma vez no mês,1,1
+C7,COR OU RAÇA,Indígena,YouTube,Nunca ou quase nunca,41,41
+C7,COR OU RAÇA,Indígena,YouTube,Não sabe,0,0
+C7,COR OU RAÇA,Indígena,YouTube,Não respondeu,0,0
+C7,COR OU RAÇA,Indígena,YouTube,Não se aplica,0,0
+C7,COR OU RAÇA,Indígena,Discord,Várias vezes ao dia,1,1
+C7,COR OU RAÇA,Indígena,Discord,Todos os dias ou quase todos os dias,0,0
+C7,COR OU RAÇA,Indígena,Discord,Pelo menos uma vez por semana,3,3
+C7,COR OU RAÇA,Indígena,Discord,Pelo menos uma vez no mês,5,5
+C7,COR OU RAÇA,Indígena,Discord,Nunca ou quase nunca,81,81
+C7,COR OU RAÇA,Indígena,Discord,Não sabe,10,10
+C7,COR OU RAÇA,Indígena,Discord,Não respondeu,0,0
+C7,COR OU RAÇA,Indígena,Discord,Não se aplica,0,0
+C7,COR OU RAÇA,Não respondeu,Facebook,Várias vezes ao dia,2,2
+C7,COR OU RAÇA,Não respondeu,Facebook,Todos os dias ou quase todos os dias,1,1
+C7,COR OU RAÇA,Não respondeu,Facebook,Pelo menos uma vez por semana,24,24
+C7,COR OU RAÇA,Não respondeu,Facebook,Pelo menos uma vez no mês,2,2
+C7,COR OU RAÇA,Não respondeu,Facebook,Nunca ou quase nunca,69,69
+C7,COR OU RAÇA,Não respondeu,Facebook,Não sabe,1,1
+C7,COR OU RAÇA,Não respondeu,Facebook,Não respondeu,0,0
+C7,COR OU RAÇA,Não respondeu,Facebook,Não se aplica,0,0
+C7,COR OU RAÇA,Não respondeu,Instagram,Várias vezes ao dia,11,11
+C7,COR OU RAÇA,Não respondeu,Instagram,Todos os dias ou quase todos os dias,20,20
+C7,COR OU RAÇA,Não respondeu,Instagram,Pelo menos uma vez por semana,22,22
+C7,COR OU RAÇA,Não respondeu,Instagram,Pelo menos uma vez no mês,3,3
+C7,COR OU RAÇA,Não respondeu,Instagram,Nunca ou quase nunca,41,41
+C7,COR OU RAÇA,Não respondeu,Instagram,Não sabe,3,3
+C7,COR OU RAÇA,Não respondeu,Instagram,Não respondeu,0,0
+C7,COR OU RAÇA,Não respondeu,Instagram,Não se aplica,0,0
+C7,COR OU RAÇA,Não respondeu,"X, antigo Twitter",Várias vezes ao dia,0,0
+C7,COR OU RAÇA,Não respondeu,"X, antigo Twitter",Todos os dias ou quase todos os dias,0,0
+C7,COR OU RAÇA,Não respondeu,"X, antigo Twitter",Pelo menos uma vez por semana,0,0
+C7,COR OU RAÇA,Não respondeu,"X, antigo Twitter",Pelo menos uma vez no mês,1,1
+C7,COR OU RAÇA,Não respondeu,"X, antigo Twitter",Nunca ou quase nunca,98,98
+C7,COR OU RAÇA,Não respondeu,"X, antigo Twitter",Não sabe,1,1
+C7,COR OU RAÇA,Não respondeu,"X, antigo Twitter",Não respondeu,0,0
+C7,COR OU RAÇA,Não respondeu,"X, antigo Twitter",Não se aplica,0,0
+C7,COR OU RAÇA,Não respondeu,TikTok,Várias vezes ao dia,12,12
+C7,COR OU RAÇA,Não respondeu,TikTok,Todos os dias ou quase todos os dias,20,20
+C7,COR OU RAÇA,Não respondeu,TikTok,Pelo menos uma vez por semana,25,25
+C7,COR OU RAÇA,Não respondeu,TikTok,Pelo menos uma vez no mês,2,2
+C7,COR OU RAÇA,Não respondeu,TikTok,Nunca ou quase nunca,39,39
+C7,COR OU RAÇA,Não respondeu,TikTok,Não sabe,1,1
+C7,COR OU RAÇA,Não respondeu,TikTok,Não respondeu,0,0
+C7,COR OU RAÇA,Não respondeu,TikTok,Não se aplica,0,0
+C7,COR OU RAÇA,Não respondeu,WhatsApp,Várias vezes ao dia,39,39
+C7,COR OU RAÇA,Não respondeu,WhatsApp,Todos os dias ou quase todos os dias,27,27
+C7,COR OU RAÇA,Não respondeu,WhatsApp,Pelo menos uma vez por semana,10,10
+C7,COR OU RAÇA,Não respondeu,WhatsApp,Pelo menos uma vez no mês,4,4
+C7,COR OU RAÇA,Não respondeu,WhatsApp,Nunca ou quase nunca,19,19
+C7,COR OU RAÇA,Não respondeu,WhatsApp,Não sabe,0,0
+C7,COR OU RAÇA,Não respondeu,WhatsApp,Não respondeu,0,0
+C7,COR OU RAÇA,Não respondeu,WhatsApp,Não se aplica,0,0
+C7,COR OU RAÇA,Não respondeu,YouTube,Várias vezes ao dia,40,40
+C7,COR OU RAÇA,Não respondeu,YouTube,Todos os dias ou quase todos os dias,19,19
+C7,COR OU RAÇA,Não respondeu,YouTube,Pelo menos uma vez por semana,3,3
+C7,COR OU RAÇA,Não respondeu,YouTube,Pelo menos uma vez no mês,6,6
+C7,COR OU RAÇA,Não respondeu,YouTube,Nunca ou quase nunca,32,32
+C7,COR OU RAÇA,Não respondeu,YouTube,Não sabe,0,0
+C7,COR OU RAÇA,Não respondeu,YouTube,Não respondeu,0,0
+C7,COR OU RAÇA,Não respondeu,YouTube,Não se aplica,0,0
+C7,COR OU RAÇA,Não respondeu,Discord,Várias vezes ao dia,0,0
+C7,COR OU RAÇA,Não respondeu,Discord,Todos os dias ou quase todos os dias,2,2
+C7,COR OU RAÇA,Não respondeu,Discord,Pelo menos uma vez por semana,0,0
+C7,COR OU RAÇA,Não respondeu,Discord,Pelo menos uma vez no mês,1,1
+C7,COR OU RAÇA,Não respondeu,Discord,Nunca ou quase nunca,91,91
+C7,COR OU RAÇA,Não respondeu,Discord,Não sabe,7,7
+C7,COR OU RAÇA,Não respondeu,Discord,Não respondeu,0,0
+C7,COR OU RAÇA,Não respondeu,Discord,Não se aplica,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,Facebook,Várias vezes ao dia,10,10
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,Facebook,Todos os dias ou quase todos os dias,7,7
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,Facebook,Pelo menos uma vez por semana,8,8
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,Facebook,Pelo menos uma vez no mês,6,6
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,Facebook,Nunca ou quase nunca,68,68
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,Facebook,Não sabe,1,1
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,Facebook,Não respondeu,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,Facebook,Não se aplica,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,Instagram,Várias vezes ao dia,45,45
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,Instagram,Todos os dias ou quase todos os dias,15,15
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,Instagram,Pelo menos uma vez por semana,7,7
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,Instagram,Pelo menos uma vez no mês,2,2
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,Instagram,Nunca ou quase nunca,30,30
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,Instagram,Não sabe,1,1
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,Instagram,Não respondeu,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,Instagram,Não se aplica,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,"X, antigo Twitter",Várias vezes ao dia,3,3
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,"X, antigo Twitter",Todos os dias ou quase todos os dias,2,2
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,"X, antigo Twitter",Pelo menos uma vez por semana,6,6
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,"X, antigo Twitter",Pelo menos uma vez no mês,2,2
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,"X, antigo Twitter",Nunca ou quase nunca,84,84
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,"X, antigo Twitter",Não sabe,2,2
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,"X, antigo Twitter",Não respondeu,1,1
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,"X, antigo Twitter",Não se aplica,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,TikTok,Várias vezes ao dia,37,37
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,TikTok,Todos os dias ou quase todos os dias,12,12
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,TikTok,Pelo menos uma vez por semana,10,10
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,TikTok,Pelo menos uma vez no mês,4,4
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,TikTok,Nunca ou quase nunca,34,34
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,TikTok,Não sabe,1,1
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,TikTok,Não respondeu,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,TikTok,Não se aplica,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,WhatsApp,Várias vezes ao dia,54,54
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,WhatsApp,Todos os dias ou quase todos os dias,16,16
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,WhatsApp,Pelo menos uma vez por semana,6,6
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,WhatsApp,Pelo menos uma vez no mês,3,3
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,WhatsApp,Nunca ou quase nunca,20,20
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,WhatsApp,Não sabe,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,WhatsApp,Não respondeu,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,WhatsApp,Não se aplica,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,YouTube,Várias vezes ao dia,44,44
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,YouTube,Todos os dias ou quase todos os dias,22,22
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,YouTube,Pelo menos uma vez por semana,14,14
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,YouTube,Pelo menos uma vez no mês,4,4
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,YouTube,Nunca ou quase nunca,16,16
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,YouTube,Não sabe,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,YouTube,Não respondeu,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,YouTube,Não se aplica,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,Discord,Várias vezes ao dia,5,5
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,Discord,Todos os dias ou quase todos os dias,2,2
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,Discord,Pelo menos uma vez por semana,3,3
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,Discord,Pelo menos uma vez no mês,2,2
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,Discord,Nunca ou quase nunca,80,80
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,Discord,Não sabe,6,6
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,Discord,Não respondeu,2,2
+C7,DOMICÍLIO COM ACESSO À INTERNET,Sim,Discord,Não se aplica,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,Facebook,Várias vezes ao dia,8,8
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,Facebook,Todos os dias ou quase todos os dias,11,11
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,Facebook,Pelo menos uma vez por semana,10,10
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,Facebook,Pelo menos uma vez no mês,7,7
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,Facebook,Nunca ou quase nunca,64,64
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,Facebook,Não sabe,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,Facebook,Não respondeu,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,Facebook,Não se aplica,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,Instagram,Várias vezes ao dia,45,45
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,Instagram,Todos os dias ou quase todos os dias,20,20
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,Instagram,Pelo menos uma vez por semana,8,8
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,Instagram,Pelo menos uma vez no mês,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,Instagram,Nunca ou quase nunca,25,25
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,Instagram,Não sabe,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,Instagram,Não respondeu,1,1
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,Instagram,Não se aplica,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,"X, antigo Twitter",Várias vezes ao dia,2,2
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,"X, antigo Twitter",Todos os dias ou quase todos os dias,1,1
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,"X, antigo Twitter",Pelo menos uma vez por semana,4,4
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,"X, antigo Twitter",Pelo menos uma vez no mês,4,4
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,"X, antigo Twitter",Nunca ou quase nunca,86,86
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,"X, antigo Twitter",Não sabe,2,2
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,"X, antigo Twitter",Não respondeu,2,2
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,"X, antigo Twitter",Não se aplica,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,TikTok,Várias vezes ao dia,33,33
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,TikTok,Todos os dias ou quase todos os dias,20,20
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,TikTok,Pelo menos uma vez por semana,9,9
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,TikTok,Pelo menos uma vez no mês,3,3
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,TikTok,Nunca ou quase nunca,31,31
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,TikTok,Não sabe,2,2
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,TikTok,Não respondeu,2,2
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,TikTok,Não se aplica,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,WhatsApp,Várias vezes ao dia,31,31
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,WhatsApp,Todos os dias ou quase todos os dias,37,37
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,WhatsApp,Pelo menos uma vez por semana,13,13
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,WhatsApp,Pelo menos uma vez no mês,2,2
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,WhatsApp,Nunca ou quase nunca,17,17
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,WhatsApp,Não sabe,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,WhatsApp,Não respondeu,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,WhatsApp,Não se aplica,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,YouTube,Várias vezes ao dia,32,32
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,YouTube,Todos os dias ou quase todos os dias,36,36
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,YouTube,Pelo menos uma vez por semana,6,6
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,YouTube,Pelo menos uma vez no mês,6,6
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,YouTube,Nunca ou quase nunca,19,19
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,YouTube,Não sabe,1,1
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,YouTube,Não respondeu,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,YouTube,Não se aplica,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,Discord,Várias vezes ao dia,1,1
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,Discord,Todos os dias ou quase todos os dias,4,4
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,Discord,Pelo menos uma vez por semana,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,Discord,Pelo menos uma vez no mês,0,0
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,Discord,Nunca ou quase nunca,89,89
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,Discord,Não sabe,4,4
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,Discord,Não respondeu,2,2
+C7,DOMICÍLIO COM ACESSO À INTERNET,Não,Discord,Não se aplica,0,0
