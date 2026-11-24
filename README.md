@@ -103,8 +103,8 @@ Pesquisa do **Cetic.br**. Documentos e tabelas de indicadores utilizados:
 | TIC Kids Online Brasil 2024 – Resumo Executivo | Contexto e resultados gerais |
 | Tabela **G17** | Uso excessivo e dificuldade de controle |
 | Tabela **B2** | Atividades online, redes, vídeos e pesquisa escolar |
-| Tabela **C7** | Mediação dos responsáveis |
-| Tabela **E3A** | Mediação, segundo os próprios jovens |
+| Tabela **C7** | Frequência de uso de plataformas digitais (TikTok, Instagram, YouTube, WhatsApp) |
+| Tabela **E3A** | Orientações e mediação dos pais ou responsáveis, **segundo os próprios jovens** |
 
 ### 4.2 Fontes alternativas
 
@@ -143,9 +143,9 @@ A melhor combinação de fontes alternativas é a **PeNSE 2024** (base principal
 4. **Padronização:**
    - células marcadas com `-` nas tabelas originais foram deixadas **vazias**;
    - todos os valores estão em **%**;
-   - indicado **quem respondeu** (criança/adolescente ou responsável).
+   - a mediação familiar vem da E3A, **respondida pelos jovens**; respostas de responsáveis não entram na base (por isso o CSV não tem coluna de respondente).
 5. **Validação:** os valores do PDF foram comparados com as tabelas oficiais do Cetic.br.
-6. Respostas de pais e filhos **não foram misturadas**, pois divergem (ver [Análise](#pergunta-4--mediação-familiar)).
+6. Respostas de pais e filhos **não foram misturadas**, pois divergem: a base só tem respostas dos jovens (ver [Análise](#6-a--analisar-dados), pergunta 4).
 
 ### 5.2 Estrutura da base tratada
 
@@ -161,7 +161,18 @@ A base tem **20 linhas (recortes)** e uma coluna `recorte_tipo` + `recorte`:
 | Faixa etária | 9 a 10, 11 a 12, 13 a 14, 15 a 17 anos |
 | Escolaridade dos responsáveis | Até Fundamental I, Fundamental II, Médio ou mais |
 
+Recortes das tabelas originais **fora do escopo e descartados**: renda familiar, cor ou raça e domicílio com acesso à internet. Dentro de cada tipo, as categorias estão em ordem alfabética (por isso "9 a 10 anos" aparece depois de "15 a 17 anos").
+
+**Células vazias:** (a) `g17_*` e derivados em *9 a 10 anos*, pois a G17 só cobre 11 a 17 anos; (b) `med_*` nas três linhas de *escolaridade dos responsáveis*, que ficaram em branco na base (a E3A traz esses valores, então podem ser incluídos em uma próxima versão).
+
 ### 5.3 Dicionário de variáveis (valores em %, salvo indicação)
+
+| Bloco | Tabela de origem | Quem responde |
+|---|---|---|
+| Redes, vídeos, jogos, interesse e pesquisa escolar | B2 (9 a 17 anos) | Criança/adolescente |
+| Plataformas (TikTok, Instagram, YouTube, WhatsApp) | C7 (9 a 17 anos) | Criança/adolescente |
+| Uso excessivo | G17 (11 a 17 anos) | Criança/adolescente |
+| Mediação familiar | E3A (9 a 17 anos) | Criança/adolescente (sobre o que os pais fazem) |
 
 **Uso de redes e vídeos**
 
@@ -201,11 +212,11 @@ A base tem **20 linhas (recortes)** e uma coluna `recorte_tipo` + `recorte`:
 | `g17_menos_tempo_licao` | Passou menos tempo com família, amigos ou lição de casa |
 | `g17_nao_conseguiu_reduzir` | Tentou passar menos tempo e não conseguiu |
 | `g17_nenhuma` | Nenhuma das situações |
-| `g17_ns_nr` | Não sabe / não respondeu |
+| `g17_ns_nr` | Não sabe + não respondeu (soma) |
 | `g17_indice_medio_5itens` | Índice médio dos 5 itens de uso excessivo (derivado) |
 | `g17_ao_menos_uma_aprox` | Aproximação do % com ao menos uma situação (derivado) |
 
-**Mediação familiar**
+**Mediação familiar** (E3A; % de jovens que respondem *sempre* ou *quase sempre*)
 
 | Variável | Significado |
 |---|---|
@@ -227,6 +238,17 @@ A base tem **20 linhas (recortes)** e uma coluna `recorte_tipo` + `recorte`:
 
 > Exemplo de conferência: Total → 67 − 52 = **15** pontos de diferença entre uso diário de redes e pesquisa escolar diária.
 
+**Regras de cálculo** (somas e médias de percentuais publicados):
+
+- `*_diario` (B2) = *mais de uma vez por dia* + *pelo menos uma vez por dia*; `escolar_semanal_ou_mais` = diário + *pelo menos uma vez por semana*; `escolar_nao_realiza` = *não se aplica*.
+- `*_frequente` (C7) = *várias vezes ao dia* + *todos ou quase todos os dias*; `*_varias_dia` = *várias vezes ao dia*.
+- `g17_indice_medio_5itens` = média dos 5 itens de uso excessivo; `g17_ao_menos_uma_aprox` = 100 − `g17_nenhuma` − `g17_ns_nr`.
+- `med_*` (E3A) = *sempre* + *quase sempre*; `med_restritiva_media` = média de olham celular, regras e deixam sem celular; `med_ativa_media` = média de ensinam segurança, conversam e sentam junto.
+
+### 5.4 Reprodutibilidade
+
+O notebook `DEILAS_scroll_atencao_escolar.ipynb` (Google Colab) baixa as tabelas G17, B2, C7 e E3A do Cetic.br, aplica as regras acima, gera esta base tratada, confere os números citados neste README e monta os dashboards das 5 perguntas.
+
 ---
 
 ## 6. A – Analisar dados
@@ -244,28 +266,31 @@ A base tem **20 linhas (recortes)** e uma coluna `recorte_tipo` + `recorte`:
 - Maior dificuldade entre: adolescentes de **13 a 14 anos (29%)**, **meninas (28%)**, **região Sul (27%)** e **classe AB (40%, o dobro da classe DE)**.
 
 ### Pergunta 3 – Vídeos, redes sociais e pesquisa escolar
-- Com a idade, crescem **tanto** o uso de redes e vídeos **quanto** a pesquisa para trabalhos escolares: o entretenimento convive com o uso para estudo.
-- Porém, os grupos que **mais usam redes pesquisam menos** para a escola. No **Sul**, 73% usam redes todos os dias, mas só **40%** pesquisam para trabalhos escolares todos os dias.
+- Com a idade, cresce o uso diário de redes (30% aos 9–10 anos → 86% aos 15–17) e a pesquisa escolar diária (34% → 59%); os vídeos sobem até 13–14 anos (75%) e recuam aos 15–17 (70%). O entretenimento convive com o uso para estudo.
+- Em alguns grupos, o uso intenso de redes vem com menos pesquisa escolar: no **Sul**, 73% usam redes todos os dias, mas só **40%** pesquisam para trabalhos escolares todos os dias (filhos de responsáveis com até o Fundamental I: 73% × 41%).
+- **Não é um padrão geral:** considerando todos os recortes, a associação entre uso diário de redes e pesquisa escolar diária é positiva e moderada (Pearson r = 0,32; Spearman ρ = −0,04; n = 19), sem evidência de que quem usa mais redes pesquise menos.
 - Diferença (redes diárias − pesquisa escolar diária), calculada na base:
 
 | Recorte | Diferença (p.p.) |
 |---|---|
 | Região Sul | **33** (maior) |
-| 15 a 17 anos | 27 |
+| Até Fundamental I (responsáveis) | 32 |
 | 13 a 14 anos | 28 |
+| 15 a 17 anos | 27 |
 | Total | 15 |
-| Classe AB | **−11** (pesquisa escolar maior que uso de redes) |
 | 9 a 10 anos | −4 |
+| Classe AB | **−11** (pesquisa escolar maior que uso de redes) |
 
 ### Pergunta 4 – Mediação familiar
-- O controle dos pais **diminui com a idade**: as regras para uso do celular caem de **71% (9 a 10 anos)** para **27% (15 a 17 anos)**, justamente na idade em que o uso excessivo aumenta.
-- Pais e filhos **respondem diferente**: **70%** dos pais dizem que conversam sobre o que o filho faz na internet, mas só **45%** dos filhos afirmam o mesmo. Por isso as respostas dos dois grupos **não foram misturadas**.
+- Segundo os jovens (E3A, base tratada), a mediação **diminui na adolescência**: as regras para uso do celular vão de **47% (9 a 10 anos)** e 59% (11 a 12) para 40% (13 a 14) e **21% (15 a 17)**; conversar sobre o que fazem na internet cai de 47% para 34%. Na mesma faixa etária o índice de uso excessivo sobe (15,0% aos 11–12 → 23,0% aos 15–17).
+- Entre os recortes, mediação ativa × índice de uso excessivo tem associação negativa moderada (r = −0,44; n = 15) e mediação restritiva, negativa fraca a moderada (r = −0,31). A idade confunde essa relação, e as linhas de escolaridade não têm mediação na base.
+- Pais e filhos **respondem diferente**. Os responsáveis relatam mais mediação (resultados divulgados pelo Cetic.br, **fora da base tratada**): 71% dos responsáveis de 9–10 anos e 27% dos de 15–17 dizem colocar regras para o celular. Sobre conversar, o valor dos pais (cerca de 70%) está **a confirmar na fonte**, contra **45%** dos jovens (base). Por isso a base só tem respostas dos jovens e os dois conjuntos **não foram misturados**.
 
 ### Pergunta 5 – Desigualdades socioeconômicas
 - O uso problemático aparece em **todas as classes**, de formas diferentes:
   - **Classe AB:** mais dificuldade de controlar o uso (**40%**).
   - **Classes C e DE:** mais perda de sono e de refeições (**16%**, contra **8%** na AB).
-- A classe AB também é a que mais usa a internet para pesquisa escolar (**69%**, contra **45%** na DE): **mais acesso não significou mais prejuízo**.
+- A classe AB também é a que mais usa a internet para pesquisa escolar (**69%**, contra **45%** na DE). Mais acesso e uso educacional **não** vêm com ausência de problema: o índice médio de uso excessivo é 22,0% na AB, 21,6% na C e 17,6% na DE. O que muda é o *tipo* de problema (autocontrole na AB; sono e refeições nas classes C e DE).
 
 ---
 
@@ -275,12 +300,12 @@ A base tem **20 linhas (recortes)** e uma coluna `recorte_tipo` + `recorte`:
 
 | Público | Achado de base | Ação sugerida |
 |---|---|---|
-| **Famílias** | Regras de celular caem de 71% para 27% entre 9–10 e 15–17 anos; 70% dos pais × 45% dos filhos sobre conversas | Manter regras e **diálogo** durante a adolescência, não só na infância; alinhar com os filhos o que é "conversar" sobre a internet |
+| **Famílias** | Segundo os jovens, regras de celular caem de 47% (9–10) para 21% (15–17); pais relatam mais mediação que os filhos | Manter regras e **diálogo** durante a adolescência, não só na infância; alinhar com os filhos o que é "conversar" sobre a internet |
 | **Escolas** | Uso excessivo cresce com a idade; entretenimento convive com estudo | Educação digital com foco em **autorregulação**, começando antes dos 13 anos |
 | **Grupos prioritários** | Meninas, região Sul, 13–14 anos, filhos de responsáveis com menor escolaridade | Direcionar campanhas e materiais de prevenção a esses grupos |
 | **Classe AB** | Maior dificuldade de controle (40%) | Ações centradas em **hábitos e autocontrole**, não em acesso |
 | **Classes C e DE** | Maior perda de sono e refeições (16%) | Ações centradas em **rotina, sono e alimentação**; orientação aos responsáveis |
-| **Políticas públicas** | Mais acesso não significou mais prejuízo (AB × DE) | Políticas de inclusão digital **sem tratar o acesso como o problema**; foco em bem-estar digital |
+| **Políticas públicas** | O tipo de prejuízo muda por classe (AB: autocontrole; C e DE: sono e refeições); acesso maior não elimina o problema | Políticas de inclusão digital **sem tratar o acesso como o problema**; foco em bem-estar digital |
 | **Pesquisa** | Limitação a dados agregados | Usar os microdados para testar associações (ver próximos passos) |
 
 ---
@@ -293,6 +318,9 @@ A base tem **20 linhas (recortes)** e uma coluna `recorte_tipo` + `recorte`:
 - **Compatibilidade de variáveis** (pergunta 4): verificar nos microdados de crianças e responsáveis.
 - **Fontes alternativas:** PeNSE e PISA não se cruzam por aluno e só oferecem proxies para as perguntas 2, 3 e 4.
 - **Faixa etária:** alguns indicadores de uso excessivo (G17) valem apenas para 11 a 17 anos; por isso há células vazias na base.
+- **Escolaridade dos responsáveis:** os indicadores de mediação (`med_*`) estão vazios nessas linhas, embora a E3A os traga.
+- **Correlações entre recortes:** os recortes se sobrepõem (idade, escolaridade, classe) e são poucos (n ≤ 19); servem como apoio descritivo, não como prova.
+- **Valores citados de outras fontes** (ex.: respostas dos responsáveis, 15 pontos do PISA) não saem da base e devem ser confirmados na fonte original.
 
 ---
 
@@ -302,6 +330,7 @@ A base tem **20 linhas (recortes)** e uma coluna `recorte_tipo` + `recorte`:
 2. Verificar a **compatibilidade** das variáveis entre os microdados de crianças e de responsáveis.
 3. Incorporar **PeNSE 2024** e **PISA 2022** para comparação em nível agregado (região, tipo de escola, sexo).
 4. Confirmar na fonte original (OCDE) o dado de **15 pontos a menos** no PISA 2022.
+5. Incluir na base os indicadores de mediação por escolaridade dos responsáveis (E3A) e, se necessário, uma tabela separada com as respostas dos responsáveis, sem misturá-las às dos jovens.
 
 ---
 
